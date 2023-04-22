@@ -1,0 +1,1165 @@
+,Country Name,Year,Value_Both,Value_Female,Value_Male,ISO3
+0,Afghanistan,2010,0.41,0.05,0.36,AFG
+1,Afghanistan,2015,0.4,0.05,0.35,AFG
+2,Afghanistan,2018,0.42,0.06,0.36,AFG
+3,Africa Eastern and Southern,2000,10.16,1.96,8.2,
+4,Africa Eastern and Southern,2005,9.84,1.9,7.94,
+5,Africa Eastern and Southern,2010,10.95,2.1,8.84,
+6,Africa Eastern and Southern,2015,10.51,2.0,8.52,
+7,Africa Eastern and Southern,2018,10.42,1.97,8.45,
+8,Africa Western and Central,2000,16.18,3.12,13.06,
+9,Africa Western and Central,2005,15.62,3.04,12.57,
+10,Africa Western and Central,2010,14.97,2.91,12.07,
+11,Africa Western and Central,2015,13.75,2.71,11.04,
+12,Africa Western and Central,2018,13.69,2.7,10.99,
+13,Albania,2000,13.1,2.5,10.6,ALB
+14,Albania,2005,15.37,2.96,12.41,ALB
+15,Albania,2010,15.45,2.98,12.47,ALB
+16,Albania,2015,13.45,2.53,10.92,ALB
+17,Albania,2018,14.31,2.68,11.63,ALB
+18,Algeria,2000,1.16,0.16,1.0,DZA
+19,Algeria,2005,1.61,0.22,1.39,DZA
+20,Algeria,2010,1.3,0.18,1.12,DZA
+21,Algeria,2015,1.86,0.25,1.61,DZA
+22,Algeria,2018,1.88,0.25,1.63,DZA
+23,Andorra,2000,26.92,6.57,20.35,AND
+24,Andorra,2005,25.38,6.2,19.18,AND
+25,Andorra,2010,22.43,5.3,17.13,AND
+26,Andorra,2015,22.35,5.19,17.16,AND
+27,Andorra,2018,22.36,5.19,17.17,AND
+28,Angola,2000,5.62,1.2,4.42,AGO
+29,Angola,2005,9.96,2.15,7.81,AGO
+30,Angola,2010,16.61,3.69,12.92,AGO
+31,Angola,2015,16.22,3.58,12.64,AGO
+32,Angola,2018,14.15,3.1,11.05,AGO
+33,Antigua and Barbuda,2000,10.68,2.31,8.37,ATG
+34,Antigua and Barbuda,2005,11.08,2.45,8.63,ATG
+35,Antigua and Barbuda,2010,11.58,2.53,9.05,ATG
+36,Antigua and Barbuda,2015,12.16,2.67,9.49,ATG
+37,Antigua and Barbuda,2018,13.16,2.9,10.26,ATG
+38,Arab World,2000,1.33,0.18,1.15,
+39,Arab World,2005,1.24,0.17,1.08,
+40,Arab World,2010,1.23,0.16,1.07,
+41,Arab World,2015,1.2,0.15,1.05,
+42,Arab World,2018,1.16,0.15,1.02,
+43,Argentina,2000,17.83,4.17,13.66,ARG
+44,Argentina,2005,17.66,4.16,13.5,ARG
+45,Argentina,2010,18.52,4.43,14.09,ARG
+46,Argentina,2015,19.45,4.66,14.79,ARG
+47,Argentina,2018,19.65,4.71,14.94,ARG
+48,Armenia,2000,8.94,1.92,7.02,ARM
+49,Armenia,2005,12.19,2.65,9.54,ARM
+50,Armenia,2010,12.03,2.63,9.4,ARM
+51,Armenia,2015,12.32,2.69,9.63,ARM
+52,Armenia,2018,11.69,2.55,9.14,ARM
+53,Australia,2000,23.59,5.73,17.86,AUS
+54,Australia,2005,24.3,5.96,18.34,AUS
+55,Australia,2010,24.86,6.13,18.73,AUS
+56,Australia,2015,21.77,5.33,16.44,AUS
+57,Australia,2018,21.14,5.18,15.96,AUS
+58,Austria,2000,26.79,6.37,20.42,AUT
+59,Austria,2005,26.1,6.21,19.89,AUT
+60,Austria,2010,24.85,5.89,18.96,AUT
+61,Austria,2015,24.52,5.82,18.7,AUT
+62,Austria,2018,24.26,5.77,18.49,AUT
+63,Azerbaijan,2000,7.13,1.14,5.99,AZE
+64,Azerbaijan,2005,3.71,0.59,3.12,AZE
+65,Azerbaijan,2010,6.06,0.99,5.07,AZE
+66,Azerbaijan,2015,9.34,1.52,7.82,AZE
+67,Azerbaijan,2018,8.97,1.46,7.51,AZE
+68,"Bahamas, The",2000,11.41,2.59,8.82,
+69,"Bahamas, The",2005,8.74,1.96,6.78,
+70,"Bahamas, The",2010,8.4,1.85,6.55,
+71,"Bahamas, The",2015,9.27,2.03,7.24,
+72,"Bahamas, The",2018,9.74,2.12,7.62,
+73,Bahrain,2000,3.07,0.54,2.53,BHR
+74,Bahrain,2005,3.02,0.53,2.49,BHR
+75,Bahrain,2010,2.82,0.49,2.33,BHR
+76,Bahrain,2015,2.18,0.38,1.8,BHR
+77,Bahrain,2018,1.82,0.32,1.5,BHR
+78,Bangladesh,2000,0.45,0.06,0.39,BGD
+79,Bangladesh,2005,0.31,0.04,0.27,BGD
+80,Bangladesh,2010,0.32,0.04,0.28,BGD
+81,Bangladesh,2015,0.04,0.01,0.04,BGD
+82,Bangladesh,2018,0.04,0.0,0.03,BGD
+83,Barbados,2000,14.69,3.0,11.69,BRB
+84,Barbados,2005,15.29,3.13,12.16,BRB
+85,Barbados,2010,16.44,3.35,13.09,BRB
+86,Barbados,2015,19.31,3.93,15.38,BRB
+87,Barbados,2018,20.07,4.09,15.98,BRB
+88,Belarus,2000,31.73,7.26,24.47,BLR
+89,Belarus,2005,32.05,7.4,24.65,BLR
+90,Belarus,2010,36.51,8.83,27.68,BLR
+91,Belarus,2015,25.22,5.72,19.5,BLR
+92,Belarus,2018,24.09,5.38,18.71,BLR
+93,Belgium,2000,25.37,5.96,19.41,BEL
+94,Belgium,2005,26.65,6.34,20.31,BEL
+95,Belgium,2010,23.11,5.4,17.71,BEL
+96,Belgium,2015,23.95,5.62,18.33,BEL
+97,Belgium,2018,22.42,5.27,17.15,BEL
+98,Belize,2000,11.08,2.29,8.79,BLZ
+99,Belize,2005,14.31,2.98,11.33,BLZ
+100,Belize,2010,14.2,2.95,11.25,BLZ
+101,Belize,2015,13.56,2.8,10.76,BLZ
+102,Belize,2018,12.53,2.59,9.94,BLZ
+103,Benin,2000,5.02,1.02,4.0,BEN
+104,Benin,2005,4.54,0.92,3.62,BEN
+105,Benin,2010,5.01,1.01,4.0,BEN
+106,Benin,2015,6.0,1.21,4.79,BEN
+107,Benin,2018,5.67,1.14,4.53,BEN
+108,Bhutan,2000,5.42,0.99,4.43,BTN
+109,Bhutan,2005,3.08,0.57,2.51,BTN
+110,Bhutan,2010,1.76,0.33,1.43,BTN
+111,Bhutan,2015,0.8,0.15,0.65,BTN
+112,Bhutan,2018,0.83,0.16,0.67,BTN
+113,Bolivia,2000,6.91,1.63,5.28,
+114,Bolivia,2005,8.77,2.06,6.71,
+115,Bolivia,2010,11.16,2.61,8.55,
+116,Bolivia,2015,9.31,2.19,7.12,
+117,Bolivia,2018,8.89,2.09,6.8,
+118,Bosnia and Herzegovina,2000,12.98,2.42,10.56,BIH
+119,Bosnia and Herzegovina,2005,14.65,2.75,11.9,BIH
+120,Bosnia and Herzegovina,2010,14.9,2.81,12.09,BIH
+121,Bosnia and Herzegovina,2015,14.08,2.62,11.46,BIH
+122,Bosnia and Herzegovina,2018,14.53,2.7,11.83,BIH
+123,Botswana,2000,18.41,3.39,15.02,BWA
+124,Botswana,2005,19.5,3.65,15.85,BWA
+125,Botswana,2010,17.47,3.25,14.22,BWA
+126,Botswana,2015,13.91,2.6,11.31,BWA
+127,Botswana,2018,13.36,2.51,10.85,BWA
+128,Brazil,2000,17.81,3.88,13.93,BRA
+129,Brazil,2005,16.88,3.66,13.22,BRA
+130,Brazil,2010,17.24,3.76,13.48,BRA
+131,Brazil,2015,15.96,3.46,12.5,BRA
+132,Brazil,2018,15.08,3.26,11.82,BRA
+133,Brunei Darussalam,2000,0.45,0.11,0.34,BRN
+134,Brunei Darussalam,2005,0.41,0.1,0.31,BRN
+135,Brunei Darussalam,2010,1.0,0.24,0.76,BRN
+136,Brunei Darussalam,2015,0.91,0.22,0.69,BRN
+137,Brunei Darussalam,2018,0.94,0.22,0.72,BRN
+138,Bulgaria,2000,24.08,5.15,18.93,BGR
+139,Bulgaria,2005,23.31,5.07,18.24,BGR
+140,Bulgaria,2010,23.08,5.06,18.02,BGR
+141,Bulgaria,2015,25.21,5.52,19.69,BGR
+142,Bulgaria,2018,25.85,5.68,20.17,BGR
+143,Burkina Faso,2000,17.3,3.04,14.26,BFA
+144,Burkina Faso,2005,18.87,3.3,15.57,BFA
+145,Burkina Faso,2010,17.51,3.02,14.49,BFA
+146,Burkina Faso,2015,24.01,4.14,19.87,BFA
+147,Burkina Faso,2018,24.37,4.2,20.17,BFA
+148,Burundi,2000,20.02,3.86,16.16,BDI
+149,Burundi,2005,17.16,3.3,13.86,BDI
+150,Burundi,2010,15.59,2.98,12.61,BDI
+151,Burundi,2015,14.33,2.74,11.59,BDI
+152,Burundi,2018,14.65,2.79,11.86,BDI
+153,Cabo Verde,2000,12.51,2.73,9.78,CPV
+154,Cabo Verde,2005,14.22,3.12,11.1,CPV
+155,Cabo Verde,2010,15.13,3.3,11.83,CPV
+156,Cabo Verde,2015,11.96,2.59,9.37,CPV
+157,Cabo Verde,2018,11.25,2.44,8.81,CPV
+158,Cambodia,2000,3.87,0.79,3.08,KHM
+159,Cambodia,2005,5.55,1.14,4.41,KHM
+160,Cambodia,2010,10.12,2.04,8.08,KHM
+161,Cambodia,2015,13.09,2.63,10.46,KHM
+162,Cambodia,2018,13.62,2.72,10.9,KHM
+163,Cameroon,2000,13.48,2.78,10.7,CMR
+164,Cameroon,2005,15.32,3.18,12.14,CMR
+165,Cameroon,2010,16.92,3.53,13.39,CMR
+166,Cameroon,2015,12.39,2.59,9.8,CMR
+167,Cameroon,2018,11.32,2.36,8.96,CMR
+168,Canada,2010,20.37,4.61,15.76,CAN
+169,Canada,2015,17.91,4.04,13.87,CAN
+170,Canada,2018,18.02,4.07,13.95,CAN
+171,Caribbean small states,2000,11.99,2.47,9.52,
+172,Caribbean small states,2005,11.83,2.47,9.36,
+173,Caribbean small states,2010,11.61,2.42,9.19,
+174,Caribbean small states,2015,12.01,2.5,9.5,
+175,Caribbean small states,2018,11.88,2.48,9.41,
+176,Central African Republic,2000,7.46,1.5,5.96,CAF
+177,Central African Republic,2005,7.33,1.48,5.85,CAF
+178,Central African Republic,2010,8.06,1.63,6.43,CAF
+179,Central African Republic,2015,4.91,0.99,3.92,CAF
+180,Central African Republic,2018,4.83,0.98,3.85,CAF
+181,Central Europe and the Baltics,2000,25.86,5.97,19.89,
+182,Central Europe and the Baltics,2005,26.34,6.14,20.2,
+183,Central Europe and the Baltics,2010,25.14,5.86,19.28,
+184,Central Europe and the Baltics,2015,24.58,5.69,18.89,
+185,Central Europe and the Baltics,2018,24.45,5.64,18.81,
+186,Chad,2000,8.75,1.54,7.21,TCD
+187,Chad,2005,9.3,1.65,7.65,TCD
+188,Chad,2010,13.22,2.35,10.87,TCD
+189,Chad,2015,2.92,0.53,2.39,TCD
+190,Chad,2018,2.75,0.5,2.25,TCD
+191,Chile,2000,15.66,3.7,11.96,CHL
+192,Chile,2005,18.06,4.3,13.76,CHL
+193,Chile,2010,18.79,4.49,14.3,CHL
+194,Chile,2015,18.69,4.49,14.2,CHL
+195,Chile,2018,18.29,4.4,13.89,CHL
+196,China,2000,7.54,1.52,6.02,CHN
+197,China,2005,7.95,1.63,6.32,CHN
+198,China,2010,13.99,2.95,11.04,CHN
+199,China,2015,14.13,3.04,11.09,CHN
+200,China,2018,13.94,3.02,10.92,CHN
+201,Colombia,2000,11.34,2.3,9.04,COL
+202,Colombia,2005,11.0,2.23,8.77,COL
+203,Colombia,2010,10.24,2.08,8.16,COL
+204,Colombia,2015,11.75,2.39,9.36,COL
+205,Colombia,2018,11.67,2.37,9.3,COL
+206,Comoros,2000,0.38,0.05,0.33,COM
+207,Comoros,2005,0.87,0.11,0.76,COM
+208,Comoros,2010,0.51,0.07,0.44,COM
+209,Comoros,2015,1.76,0.23,1.53,COM
+210,Comoros,2018,1.38,0.18,1.2,COM
+211,"Congo, Dem. Rep.",2000,1.93,0.4,1.53,
+212,"Congo, Dem. Rep.",2005,1.74,0.36,1.38,
+213,"Congo, Dem. Rep.",2010,3.54,0.73,2.81,
+214,"Congo, Dem. Rep.",2015,4.13,0.85,3.28,
+215,"Congo, Dem. Rep.",2018,4.03,0.83,3.2,
+216,"Congo, Rep.",2000,6.93,1.48,5.45,
+217,"Congo, Rep.",2005,7.52,1.6,5.92,
+218,"Congo, Rep.",2010,12.36,2.63,9.73,
+219,"Congo, Rep.",2015,15.85,3.38,12.47,
+220,"Congo, Rep.",2018,18.59,3.96,14.63,
+221,Costa Rica,2000,11.13,2.25,8.88,CRI
+222,Costa Rica,2005,10.87,2.21,8.66,CRI
+223,Costa Rica,2010,9.62,1.97,7.65,CRI
+224,Costa Rica,2015,9.55,1.96,7.59,CRI
+225,Costa Rica,2018,9.77,2.0,7.77,CRI
+226,Cote d'Ivoire,2000,14.06,2.69,11.37,
+227,Cote d'Ivoire,2005,6.45,1.24,5.21,
+228,Cote d'Ivoire,2010,4.97,0.96,4.01,
+229,Cote d'Ivoire,2015,5.15,1.01,4.14,
+230,Cote d'Ivoire,2018,5.35,1.05,4.3,
+231,Croatia,2000,25.6,5.86,19.74,HRV
+232,Croatia,2005,21.17,4.82,16.35,HRV
+233,Croatia,2010,20.71,4.69,16.02,HRV
+234,Croatia,2015,18.63,4.15,14.48,HRV
+235,Croatia,2018,18.95,4.22,14.73,HRV
+236,Cuba,2000,9.97,2.0,7.97,CUB
+237,Cuba,2005,10.74,2.19,8.55,CUB
+238,Cuba,2010,10.06,2.1,7.96,CUB
+239,Cuba,2015,11.36,2.37,8.99,CUB
+240,Cuba,2018,11.69,2.44,9.25,CUB
+241,Cyprus,2000,21.68,5.0,16.68,CYP
+242,Cyprus,2005,24.74,5.76,18.98,CYP
+243,Cyprus,2010,22.78,5.22,17.56,CYP
+244,Cyprus,2015,21.59,4.75,16.84,CYP
+245,Cyprus,2018,21.68,4.76,16.92,CYP
+246,Czechia,2000,30.59,7.36,23.23,CZE
+247,Czechia,2005,30.06,7.25,22.81,CZE
+248,Czechia,2010,28.5,6.86,21.64,CZE
+249,Czechia,2015,28.87,6.91,21.96,CZE
+250,Czechia,2018,29.27,6.99,22.28,CZE
+251,Denmark,2000,25.59,6.13,19.46,DNK
+252,Denmark,2005,24.8,5.92,18.88,DNK
+253,Denmark,2010,22.16,5.22,16.94,DNK
+254,Denmark,2015,20.86,4.91,15.95,DNK
+255,Denmark,2018,20.64,4.86,15.78,DNK
+256,Djibouti,2000,3.24,0.45,2.79,DJI
+257,Djibouti,2005,2.55,0.35,2.2,DJI
+258,Djibouti,2010,1.33,0.18,1.15,DJI
+259,Djibouti,2015,0.99,0.13,0.86,DJI
+260,Djibouti,2018,0.87,0.12,0.75,DJI
+261,Dominica,2000,16.96,3.4,13.56,DMA
+262,Dominica,2005,17.65,3.55,14.1,DMA
+263,Dominica,2010,19.54,3.95,15.59,DMA
+264,Dominica,2015,22.92,4.63,18.29,DMA
+265,Dominica,2018,22.64,4.57,18.07,DMA
+266,Dominican Republic,2000,14.43,2.94,11.49,DOM
+267,Dominican Republic,2005,12.36,2.52,9.84,DOM
+268,Dominican Republic,2010,12.29,2.54,9.75,DOM
+269,Dominican Republic,2015,13.32,2.77,10.55,DOM
+270,Dominican Republic,2018,13.47,2.81,10.66,DOM
+271,Early-demographic dividend,2000,4.94,0.96,3.98,
+272,Early-demographic dividend,2005,4.97,0.96,4.01,
+273,Early-demographic dividend,2010,6.81,1.26,5.54,
+274,Early-demographic dividend,2015,7.74,1.42,6.33,
+275,Early-demographic dividend,2018,7.72,1.41,6.31,
+276,East Asia & Pacific,2000,8.16,1.74,6.42,
+277,East Asia & Pacific,2005,8.32,1.78,6.54,
+278,East Asia & Pacific,2010,12.45,2.65,9.79,
+279,East Asia & Pacific,2015,12.87,2.78,10.08,
+280,East Asia & Pacific,2018,12.8,2.78,10.02,
+281,East Asia & Pacific (IDA & IBRD countries),2000,6.81,1.37,5.45,
+282,East Asia & Pacific (IDA & IBRD countries),2005,7.2,1.46,5.73,
+283,East Asia & Pacific (IDA & IBRD countries),2010,12.0,2.5,9.5,
+284,East Asia & Pacific (IDA & IBRD countries),2015,12.42,2.63,9.79,
+285,East Asia & Pacific (IDA & IBRD countries),2018,12.36,2.63,9.73,
+286,East Asia & Pacific (excluding high income),2000,6.82,1.37,5.45,
+287,East Asia & Pacific (excluding high income),2005,7.2,1.46,5.74,
+288,East Asia & Pacific (excluding high income),2010,11.95,2.49,9.46,
+289,East Asia & Pacific (excluding high income),2015,12.36,2.62,9.75,
+290,East Asia & Pacific (excluding high income),2018,12.3,2.62,9.69,
+291,Ecuador,2000,11.95,2.84,9.11,ECU
+292,Ecuador,2005,11.65,2.77,8.88,ECU
+293,Ecuador,2010,12.38,2.94,9.44,ECU
+294,Ecuador,2015,10.01,2.38,7.63,ECU
+295,Ecuador,2018,8.43,2.0,6.43,ECU
+296,"Egypt, Arab Rep.",2000,0.5,0.07,0.43,
+297,"Egypt, Arab Rep.",2005,0.57,0.08,0.49,
+298,"Egypt, Arab Rep.",2010,0.73,0.1,0.63,
+299,"Egypt, Arab Rep.",2015,0.8,0.11,0.69,
+300,"Egypt, Arab Rep.",2018,0.72,0.1,0.62,
+301,El Salvador,2000,8.06,1.62,6.44,SLV
+302,El Salvador,2005,7.98,1.61,6.37,SLV
+303,El Salvador,2010,6.98,1.42,5.56,SLV
+304,El Salvador,2015,7.59,1.54,6.05,SLV
+305,El Salvador,2018,8.24,1.67,6.57,SLV
+306,Equatorial Guinea,2000,14.42,3.32,11.1,GNQ
+307,Equatorial Guinea,2005,17.03,4.22,12.81,GNQ
+308,Equatorial Guinea,2010,17.26,4.33,12.93,GNQ
+309,Equatorial Guinea,2015,16.83,4.16,12.67,GNQ
+310,Equatorial Guinea,2018,13.34,3.27,10.07,GNQ
+311,Eritrea,2000,3.16,0.55,2.61,ERI
+312,Eritrea,2005,4.18,0.74,3.44,ERI
+313,Eritrea,2010,2.78,0.49,2.29,ERI
+314,Eritrea,2015,2.87,0.5,2.37,ERI
+315,Eritrea,2018,2.89,0.5,2.39,ERI
+316,Estonia,2000,20.15,4.35,15.8,EST
+317,Estonia,2005,32.86,7.55,25.31,EST
+318,Estonia,2010,26.01,5.89,20.12,EST
+319,Estonia,2015,25.95,5.87,20.08,EST
+320,Estonia,2018,19.31,4.35,14.96,EST
+321,Eswatini,2000,15.61,2.82,12.79,SWZ
+322,Eswatini,2005,13.94,2.52,11.42,SWZ
+323,Eswatini,2010,14.13,2.55,11.58,SWZ
+324,Eswatini,2015,20.36,3.69,16.67,SWZ
+325,Eswatini,2018,20.78,3.76,17.02,SWZ
+326,Ethiopia,2000,3.55,0.62,2.93,ETH
+327,Ethiopia,2005,4.13,0.72,3.41,ETH
+328,Ethiopia,2010,5.04,0.88,4.16,ETH
+329,Ethiopia,2015,4.41,0.77,3.64,ETH
+330,Ethiopia,2018,4.74,0.83,3.91,ETH
+331,Euro area,2000,25.88,6.08,19.8,
+332,Euro area,2005,24.93,5.84,19.09,
+333,Euro area,2010,22.33,5.17,17.16,
+334,Euro area,2015,23.0,5.31,17.69,
+335,Euro area,2018,23.15,5.34,17.81,
+336,Europe & Central Asia,2000,24.75,5.56,19.18,
+337,Europe & Central Asia,2005,24.7,5.65,19.05,
+338,Europe & Central Asia,2010,22.59,5.08,17.5,
+339,Europe & Central Asia,2015,20.62,4.54,16.08,
+340,Europe & Central Asia,2018,19.97,4.39,15.58,
+341,Europe & Central Asia (IDA & IBRD countries),2000,23.3,4.94,18.35,
+342,Europe & Central Asia (IDA & IBRD countries),2005,23.97,5.3,18.67,
+343,Europe & Central Asia (IDA & IBRD countries),2010,22.44,4.87,17.57,
+344,Europe & Central Asia (IDA & IBRD countries),2015,18.17,3.74,14.43,
+345,Europe & Central Asia (IDA & IBRD countries),2018,16.64,3.41,13.23,
+346,Europe & Central Asia (excluding high income),2000,22.96,4.79,18.17,
+347,Europe & Central Asia (excluding high income),2005,23.74,5.2,18.54,
+348,Europe & Central Asia (excluding high income),2010,22.06,4.72,17.34,
+349,Europe & Central Asia (excluding high income),2015,17.27,3.46,13.8,
+350,Europe & Central Asia (excluding high income),2018,15.46,3.07,12.39,
+351,European Union,2000,25.74,6.03,19.71,
+352,European Union,2005,25.03,5.86,19.17,
+353,European Union,2010,22.8,5.29,17.51,
+354,European Union,2015,23.13,5.35,17.79,
+355,European Union,2018,23.26,5.37,17.89,
+356,Fiji,2000,6.43,1.12,5.31,FJI
+357,Fiji,2005,5.51,0.95,4.56,FJI
+358,Fiji,2010,5.93,1.01,4.92,FJI
+359,Fiji,2015,6.62,1.12,5.5,FJI
+360,Fiji,2018,6.6,1.11,5.49,FJI
+361,Finland,2000,23.8,5.49,18.31,FIN
+362,Finland,2005,26.64,6.28,20.36,FIN
+363,Finland,2010,25.54,6.01,19.53,FIN
+364,Finland,2015,22.64,5.25,17.39,FIN
+365,Finland,2018,21.82,5.05,16.77,FIN
+366,Fragile and conflict affected situations,2000,11.74,2.35,9.39,
+367,Fragile and conflict affected situations,2005,11.63,2.36,9.27,
+368,Fragile and conflict affected situations,2010,11.46,2.33,9.12,
+369,Fragile and conflict affected situations,2015,9.78,1.95,7.82,
+370,Fragile and conflict affected situations,2018,9.34,1.85,7.49,
+371,France,2000,28.59,6.8,21.79,FRA
+372,France,2005,26.58,6.26,20.32,FRA
+373,France,2010,25.17,5.86,19.31,FRA
+374,France,2015,25.63,5.97,19.66,FRA
+375,France,2018,25.01,5.83,19.18,FRA
+376,Gabon,2000,21.37,4.95,16.42,GAB
+377,Gabon,2005,18.75,4.3,14.45,GAB
+378,Gabon,2010,19.5,4.48,15.02,GAB
+379,Gabon,2015,18.77,4.37,14.4,GAB
+380,Gabon,2018,17.14,3.97,13.17,GAB
+381,"Gambia, The",2000,8.38,1.37,7.01,
+382,"Gambia, The",2005,8.67,1.41,7.26,
+383,"Gambia, The",2010,7.75,1.25,6.5,
+384,"Gambia, The",2015,7.46,1.2,6.26,
+385,"Gambia, The",2018,7.23,1.16,6.07,
+386,Georgia,2000,9.23,1.9,7.33,GEO
+387,Georgia,2005,13.38,2.8,10.58,GEO
+388,Georgia,2010,20.2,4.28,15.92,GEO
+389,Georgia,2015,20.01,4.2,15.81,GEO
+390,Georgia,2018,17.17,3.59,13.58,GEO
+391,Germany,2000,28.85,6.84,22.01,DEU
+392,Germany,2005,27.0,6.36,20.64,DEU
+393,Germany,2010,25.64,6.03,19.61,DEU
+394,Germany,2015,26.43,6.3,20.13,DEU
+395,Germany,2018,26.11,6.21,19.9,DEU
+396,Ghana,2000,10.61,2.19,8.42,GHA
+397,Ghana,2005,7.62,1.58,6.04,GHA
+398,Ghana,2010,8.66,1.8,6.86,GHA
+399,Ghana,2015,6.32,1.33,4.99,GHA
+400,Ghana,2018,5.57,1.17,4.4,GHA
+401,Greece,2000,20.51,4.59,15.92,GRC
+402,Greece,2005,21.63,4.94,16.69,GRC
+403,Greece,2010,19.57,4.38,15.19,GRC
+404,Greece,2015,21.25,4.61,16.64,GRC
+405,Greece,2018,20.63,4.46,16.17,GRC
+406,Grenada,2000,19.86,4.13,15.73,GRD
+407,Grenada,2005,17.67,3.71,13.96,GRD
+408,Grenada,2010,16.71,3.47,13.24,GRD
+409,Grenada,2015,18.2,3.76,14.44,GRD
+410,Grenada,2018,18.99,3.92,15.07,GRD
+411,Guatemala,2000,9.04,1.87,7.17,GTM
+412,Guatemala,2005,8.81,1.82,6.99,GTM
+413,Guatemala,2010,7.19,1.49,5.7,GTM
+414,Guatemala,2015,5.22,1.08,4.14,GTM
+415,Guatemala,2018,5.01,1.04,3.97,GTM
+416,Guinea,2000,1.34,0.21,1.13,GIN
+417,Guinea,2005,1.55,0.24,1.31,GIN
+418,Guinea,2010,1.4,0.21,1.19,GIN
+419,Guinea,2015,2.14,0.32,1.82,GIN
+420,Guinea,2018,2.23,0.34,1.89,GIN
+421,Guinea-Bissau,2000,8.49,1.59,6.9,GNB
+422,Guinea-Bissau,2005,10.89,2.02,8.87,GNB
+423,Guinea-Bissau,2010,9.15,1.69,7.46,GNB
+424,Guinea-Bissau,2015,10.29,1.89,8.4,GNB
+425,Guinea-Bissau,2018,10.96,2.01,8.95,GNB
+426,Guyana,2000,18.13,3.6,14.53,GUY
+427,Guyana,2005,16.05,3.16,12.89,GUY
+428,Guyana,2010,13.64,2.67,10.97,GUY
+429,Guyana,2015,14.72,2.92,11.8,GUY
+430,Guyana,2018,13.75,2.73,11.02,GUY
+431,Haiti,2000,8.1,1.59,6.51,HTI
+432,Haiti,2005,7.85,1.54,6.31,HTI
+433,Haiti,2010,6.08,1.19,4.89,HTI
+434,Haiti,2015,5.46,1.06,4.4,HTI
+435,Haiti,2018,5.54,1.07,4.47,HTI
+436,Heavily indebted poor countries (HIPC),2000,8.54,1.66,6.88,
+437,Heavily indebted poor countries (HIPC),2005,8.13,1.57,6.56,
+438,Heavily indebted poor countries (HIPC),2010,8.41,1.62,6.79,
+439,Heavily indebted poor countries (HIPC),2015,8.11,1.55,6.56,
+440,Heavily indebted poor countries (HIPC),2018,8.19,1.56,6.63,
+441,High income,2000,21.6,5.14,16.46,
+442,High income,2005,21.17,5.05,16.12,
+443,High income,2010,19.52,4.64,14.88,
+444,High income,2015,19.69,4.68,15.01,
+445,High income,2018,19.69,4.69,15.0,
+446,Honduras,2000,7.08,1.42,5.66,HND
+447,Honduras,2005,7.84,1.57,6.27,HND
+448,Honduras,2010,7.26,1.45,5.81,HND
+449,Honduras,2015,7.04,1.4,5.64,HND
+450,Honduras,2018,7.57,1.5,6.07,HND
+451,Hungary,2000,29.52,6.99,22.53,HUN
+452,Hungary,2005,30.15,7.19,22.96,HUN
+453,Hungary,2010,25.06,5.8,19.26,HUN
+454,Hungary,2015,24.01,5.51,18.5,HUN
+455,Hungary,2018,23.48,5.38,18.1,HUN
+456,IBRD only,2000,8.9,1.87,7.03,
+457,IBRD only,2005,9.03,1.93,7.1,
+458,IBRD only,2010,12.04,2.5,9.54,
+459,IBRD only,2015,12.21,2.49,9.72,
+460,IBRD only,2018,11.89,2.42,9.47,
+461,IDA & IBRD total,2000,8.62,1.79,6.83,
+462,IDA & IBRD total,2005,8.7,1.83,6.87,
+463,IDA & IBRD total,2010,11.13,2.29,8.84,
+464,IDA & IBRD total,2015,11.19,2.26,8.93,
+465,IDA & IBRD total,2018,10.94,2.2,8.74,
+466,IDA blend,2000,10.52,2.06,8.46,
+467,IDA blend,2005,10.2,2.02,8.18,
+468,IDA blend,2010,9.72,1.91,7.81,
+469,IDA blend,2015,9.12,1.81,7.31,
+470,IDA blend,2018,9.33,1.84,7.48,
+471,IDA only,2000,5.51,1.06,4.45,
+472,IDA only,2005,5.48,1.05,4.43,
+473,IDA only,2010,6.01,1.14,4.87,
+474,IDA only,2015,6.27,1.18,5.09,
+475,IDA only,2018,6.45,1.21,5.24,
+476,IDA total,2000,7.3,1.41,5.89,
+477,IDA total,2005,7.18,1.39,5.79,
+478,IDA total,2010,7.33,1.41,5.92,
+479,IDA total,2015,7.25,1.4,5.86,
+480,IDA total,2018,7.43,1.42,6.0,
+481,Iceland,2000,14.09,3.29,10.8,ISL
+482,Iceland,2005,15.49,3.67,11.82,ISL
+483,Iceland,2010,14.97,3.53,11.44,ISL
+484,Iceland,2015,17.48,4.15,13.33,ISL
+485,Iceland,2018,18.24,4.34,13.9,ISL
+486,India,2000,4.46,0.77,3.69,IND
+487,India,2005,4.57,0.79,3.78,IND
+488,India,2010,8.53,1.47,7.06,IND
+489,India,2015,10.87,1.88,8.99,IND
+490,India,2018,10.87,1.88,8.99,IND
+491,Indonesia,2000,1.0,0.15,0.85,IDN
+492,Indonesia,2005,0.97,0.14,0.83,IDN
+493,Indonesia,2010,1.18,0.17,1.01,IDN
+494,Indonesia,2015,1.21,0.18,1.03,IDN
+495,Indonesia,2018,1.15,0.17,0.98,IDN
+496,"Iran, Islamic Rep.",2000,0.4,0.05,0.35,
+497,"Iran, Islamic Rep.",2005,1.14,0.15,0.99,
+498,"Iran, Islamic Rep.",2010,2.0,0.26,1.74,
+499,"Iran, Islamic Rep.",2015,2.02,0.26,1.76,
+500,"Iran, Islamic Rep.",2018,2.05,0.26,1.79,
+501,Iraq,2000,0.91,0.13,0.78,IRQ
+502,Iraq,2005,0.88,0.12,0.76,IRQ
+503,Iraq,2010,0.98,0.14,0.84,IRQ
+504,Iraq,2015,0.73,0.1,0.63,IRQ
+505,Iraq,2018,0.78,0.11,0.67,IRQ
+506,Ireland,2000,30.44,7.71,22.73,IRL
+507,Ireland,2005,28.51,7.19,21.32,IRL
+508,Ireland,2010,24.29,5.95,18.34,IRL
+509,Ireland,2015,25.16,6.13,19.03,IRL
+510,Ireland,2018,26.0,6.38,19.62,IRL
+511,Israel,2000,6.26,1.39,4.87,ISR
+512,Israel,2005,5.49,1.22,4.27,ISR
+513,Israel,2010,6.34,1.42,4.92,ISR
+514,Israel,2015,7.81,1.76,6.05,ISR
+515,Israel,2018,8.51,1.93,6.58,ISR
+516,Italy,2000,21.19,4.87,16.32,ITA
+517,Italy,2005,19.2,4.35,14.85,ITA
+518,Italy,2010,14.99,3.33,11.66,ITA
+519,Italy,2015,15.49,3.41,12.08,ITA
+520,Italy,2018,15.98,3.52,12.46,ITA
+521,Jamaica,2000,9.94,2.01,7.93,JAM
+522,Jamaica,2005,9.0,1.83,7.17,JAM
+523,Jamaica,2010,8.86,1.79,7.07,JAM
+524,Jamaica,2015,8.45,1.7,6.75,JAM
+525,Jamaica,2018,8.49,1.7,6.79,JAM
+526,Japan,2000,16.68,4.04,12.64,JPN
+527,Japan,2005,16.21,3.92,12.29,JPN
+528,Japan,2010,14.62,3.5,11.12,JPN
+529,Japan,2015,16.0,3.84,12.16,JPN
+530,Japan,2018,16.18,3.89,12.29,JPN
+531,Jordan,2000,1.21,0.17,1.04,JOR
+532,Jordan,2005,1.3,0.18,1.12,JOR
+533,Jordan,2010,1.26,0.17,1.09,JOR
+534,Jordan,2015,1.37,0.19,1.18,JOR
+535,Jordan,2018,1.38,0.19,1.19,JOR
+536,Kazakhstan,2000,16.98,3.26,13.72,KAZ
+537,Kazakhstan,2005,19.32,3.83,15.49,KAZ
+538,Kazakhstan,2010,10.26,2.04,8.22,KAZ
+539,Kazakhstan,2015,9.63,1.9,7.73,KAZ
+540,Kazakhstan,2018,9.85,1.93,7.92,KAZ
+541,Kenya,2000,7.73,1.5,6.23,KEN
+542,Kenya,2005,6.09,1.18,4.91,KEN
+543,Kenya,2010,6.64,1.27,5.37,KEN
+544,Kenya,2015,5.6,1.07,4.53,KEN
+545,Kenya,2018,5.62,1.07,4.55,KEN
+546,Kiribati,2000,4.04,0.68,3.36,KIR
+547,Kiribati,2005,4.43,0.75,3.68,KIR
+548,Kiribati,2010,3.39,0.58,2.81,KIR
+549,Kiribati,2015,1.07,0.18,0.89,KIR
+550,Kiribati,2018,0.93,0.16,0.77,KIR
+551,"Korea, Dem. People's Rep.",2000,7.22,1.4,5.82,
+552,"Korea, Dem. People's Rep.",2005,7.54,1.45,6.09,
+553,"Korea, Dem. People's Rep.",2010,7.72,1.47,6.25,
+554,"Korea, Dem. People's Rep.",2015,7.8,1.48,6.32,
+555,"Korea, Dem. People's Rep.",2018,7.76,1.47,6.29,
+556,"Korea, Rep.",2000,24.75,6.16,18.59,
+557,"Korea, Rep.",2005,21.26,5.24,16.02,
+558,"Korea, Rep.",2010,20.0,4.93,15.07,
+559,"Korea, Rep.",2015,20.13,4.97,15.16,
+560,"Korea, Rep.",2018,19.45,4.8,14.65,
+561,Kuwait,2000,0.06,0.01,0.06,KWT
+562,Kuwait,2005,0.03,0.0,0.03,KWT
+563,Kuwait,2010,0.06,0.01,0.05,KWT
+564,Kuwait,2015,0.01,0.0,0.0,KWT
+565,Kuwait,2018,0.0,0.0,0.0,KWT
+566,Kyrgyz Republic,2000,19.23,3.29,15.94,
+567,Kyrgyz Republic,2005,22.68,3.84,18.84,
+568,Kyrgyz Republic,2010,20.5,3.31,17.19,
+569,Kyrgyz Republic,2015,15.41,2.39,13.02,
+570,Kyrgyz Republic,2018,12.74,1.95,10.79,
+571,Lao PDR,2000,9.43,1.91,7.52,
+572,Lao PDR,2005,8.86,1.81,7.05,
+573,Lao PDR,2010,14.35,2.96,11.39,
+574,Lao PDR,2015,20.27,4.25,16.02,
+575,Lao PDR,2018,21.6,4.55,17.05,
+576,Late-demographic dividend,2000,11.15,2.39,8.76,
+577,Late-demographic dividend,2005,11.53,2.52,9.01,
+578,Late-demographic dividend,2010,15.2,3.27,11.93,
+579,Late-demographic dividend,2015,14.85,3.19,11.66,
+580,Late-demographic dividend,2018,14.49,3.12,11.37,
+581,Latin America & Caribbean,2000,14.81,3.23,11.58,
+582,Latin America & Caribbean,2005,14.59,3.18,11.41,
+583,Latin America & Caribbean,2010,14.2,3.12,11.09,
+584,Latin America & Caribbean,2015,13.43,2.94,10.49,
+585,Latin America & Caribbean,2018,12.84,2.81,10.03,
+586,Latin America & Caribbean (excluding high income),2000,14.62,3.18,11.44,
+587,Latin America & Caribbean (excluding high income),2005,14.27,3.1,11.17,
+588,Latin America & Caribbean (excluding high income),2010,13.88,3.04,10.84,
+589,Latin America & Caribbean (excluding high income),2015,13.2,2.88,10.32,
+590,Latin America & Caribbean (excluding high income),2018,12.83,2.79,10.04,
+591,Latin America & the Caribbean (IDA & IBRD countries),2000,14.93,3.26,11.67,
+592,Latin America & the Caribbean (IDA & IBRD countries),2005,14.69,3.2,11.48,
+593,Latin America & the Caribbean (IDA & IBRD countries),2010,14.3,3.14,11.16,
+594,Latin America & the Caribbean (IDA & IBRD countries),2015,13.47,2.95,10.52,
+595,Latin America & the Caribbean (IDA & IBRD countries),2018,12.86,2.81,10.05,
+596,Latvia,2000,18.63,3.95,14.68,LVA
+597,Latvia,2005,25.34,5.68,19.66,LVA
+598,Latvia,2010,24.65,5.47,19.18,LVA
+599,Latvia,2015,26.75,6.02,20.73,LVA
+600,Latvia,2018,27.03,6.11,20.92,LVA
+601,Least developed countries: UN classification,2000,5.0,0.97,4.03,
+602,Least developed countries: UN classification,2005,5.37,1.04,4.33,
+603,Least developed countries: UN classification,2010,6.2,1.19,5.01,
+604,Least developed countries: UN classification,2015,6.57,1.25,5.32,
+605,Least developed countries: UN classification,2018,6.75,1.28,5.47,
+606,Lebanon,2000,5.98,0.94,5.04,LBN
+607,Lebanon,2005,4.53,0.69,3.84,LBN
+608,Lebanon,2010,3.81,0.6,3.21,LBN
+609,Lebanon,2015,3.27,0.52,2.75,LBN
+610,Lebanon,2018,3.41,0.55,2.86,LBN
+611,Lesotho,2000,15.31,2.61,12.7,LSO
+612,Lesotho,2005,11.18,1.9,9.28,LSO
+613,Lesotho,2010,13.48,2.28,11.2,LSO
+614,Lesotho,2015,9.93,1.67,8.26,LSO
+615,Lesotho,2018,9.48,1.59,7.89,LSO
+616,Liberia,2000,12.84,2.63,10.21,LBR
+617,Liberia,2005,12.15,2.48,9.67,LBR
+618,Liberia,2010,10.77,2.2,8.57,LBR
+619,Liberia,2015,11.41,2.33,9.08,LBR
+620,Liberia,2018,12.25,2.51,9.74,LBR
+621,Libya,2000,0.13,0.02,0.11,LBY
+622,Libya,2005,0.16,0.02,0.14,LBY
+623,Libya,2010,0.2,0.02,0.17,LBY
+624,Libya,2015,0.06,0.01,0.05,LBY
+625,Libya,2018,0.04,0.0,0.03,LBY
+626,Lithuania,2000,28.05,6.38,21.67,LTU
+627,Lithuania,2005,33.82,7.98,25.84,LTU
+628,Lithuania,2010,32.15,7.56,24.59,LTU
+629,Lithuania,2015,32.4,7.69,24.71,LTU
+630,Lithuania,2018,27.85,6.56,21.29,LTU
+631,Low & middle income,2000,8.29,1.71,6.58,
+632,Low & middle income,2005,8.37,1.75,6.63,
+633,Low & middle income,2010,10.88,2.22,8.66,
+634,Low & middle income,2015,10.99,2.21,8.78,
+635,Low & middle income,2018,10.77,2.16,8.62,
+636,Low income,2000,6.63,1.29,5.34,
+637,Low income,2005,6.49,1.25,5.23,
+638,Low income,2010,6.62,1.26,5.36,
+639,Low income,2015,6.47,1.22,5.25,
+640,Low income,2018,6.56,1.23,5.33,
+641,Lower middle income,2000,5.46,1.04,4.42,
+642,Lower middle income,2005,5.48,1.05,4.43,
+643,Lower middle income,2010,7.68,1.43,6.24,
+644,Lower middle income,2015,8.76,1.61,7.16,
+645,Lower middle income,2018,8.8,1.61,7.19,
+646,Luxembourg,2000,28.99,7.24,21.75,LUX
+647,Luxembourg,2005,27.46,6.76,20.7,LUX
+648,Luxembourg,2010,26.15,6.44,19.71,LUX
+649,Luxembourg,2015,26.36,6.52,19.84,LUX
+650,Luxembourg,2018,25.87,6.36,19.51,LUX
+651,Madagascar,2000,4.25,0.82,3.43,MDG
+652,Madagascar,2005,3.08,0.6,2.48,MDG
+653,Madagascar,2010,3.77,0.73,3.04,MDG
+654,Madagascar,2015,3.79,0.73,3.06,MDG
+655,Madagascar,2018,3.96,0.76,3.2,MDG
+656,Malawi,2000,4.92,0.92,4.0,MWI
+657,Malawi,2005,5.82,1.09,4.73,MWI
+658,Malawi,2010,6.52,1.23,5.29,MWI
+659,Malawi,2015,7.35,1.38,5.97,MWI
+660,Malawi,2018,7.38,1.38,6.0,MWI
+661,Malaysia,2000,3.04,0.57,2.47,MYS
+662,Malaysia,2005,2.53,0.48,2.05,MYS
+663,Malaysia,2010,2.6,0.49,2.11,MYS
+664,Malaysia,2015,1.67,0.32,1.35,MYS
+665,Malaysia,2018,1.67,0.32,1.35,MYS
+666,Maldives,2000,4.04,0.56,3.48,MDV
+667,Maldives,2005,2.91,0.4,2.51,MDV
+668,Maldives,2010,3.03,0.4,2.63,MDV
+669,Maldives,2015,3.69,0.47,3.22,MDV
+670,Maldives,2018,3.95,0.5,3.45,MDV
+671,Mali,2000,2.35,0.35,2.0,MLI
+672,Mali,2005,2.13,0.31,1.82,MLI
+673,Mali,2010,2.2,0.32,1.88,MLI
+674,Mali,2015,2.52,0.37,2.15,MLI
+675,Mali,2018,2.58,0.38,2.2,MLI
+676,Malta,2000,11.52,2.55,8.97,MLT
+677,Malta,2005,13.37,2.95,10.42,MLT
+678,Malta,2010,13.23,2.93,10.3,MLT
+679,Malta,2015,15.15,3.38,11.77,MLT
+680,Malta,2018,15.98,3.56,12.42,MLT
+681,Mauritania,2000,0.4,0.05,0.35,MRT
+682,Mauritania,2005,0.26,0.04,0.23,MRT
+683,Mauritania,2010,0.17,0.02,0.15,MRT
+684,Mauritania,2015,0.07,0.01,0.06,MRT
+685,Mauritania,2018,0.07,0.01,0.06,MRT
+686,Mauritius,2000,11.09,2.25,8.84,MUS
+687,Mauritius,2005,10.1,2.05,8.05,MUS
+688,Mauritius,2010,7.69,1.58,6.11,MUS
+689,Mauritius,2015,7.95,1.64,6.31,MUS
+690,Mauritius,2018,8.78,1.81,6.97,MUS
+691,Mexico,2000,13.01,2.77,10.24,MEX
+692,Mexico,2005,13.09,2.78,10.31,MEX
+693,Mexico,2010,10.51,2.22,8.29,MEX
+694,Mexico,2015,9.93,2.1,7.83,MEX
+695,Mexico,2018,10.08,2.13,7.95,MEX
+696,"Micronesia, Fed. Sts.",2000,7.74,1.34,6.4,
+697,"Micronesia, Fed. Sts.",2005,5.54,0.97,4.57,
+698,"Micronesia, Fed. Sts.",2010,5.64,0.97,4.67,
+699,"Micronesia, Fed. Sts.",2015,4.83,0.83,4.0,
+700,"Micronesia, Fed. Sts.",2018,4.9,0.84,4.06,
+701,Middle East & North Africa,2000,1.29,0.19,1.1,
+702,Middle East & North Africa,2005,1.36,0.19,1.16,
+703,Middle East & North Africa,2010,1.53,0.22,1.32,
+704,Middle East & North Africa,2015,1.56,0.22,1.34,
+705,Middle East & North Africa,2018,1.55,0.22,1.33,
+706,Middle East & North Africa (IDA & IBRD countries),2000,1.09,0.15,0.94,
+707,Middle East & North Africa (IDA & IBRD countries),2005,1.23,0.17,1.06,
+708,Middle East & North Africa (IDA & IBRD countries),2010,1.4,0.19,1.22,
+709,Middle East & North Africa (IDA & IBRD countries),2015,1.37,0.18,1.19,
+710,Middle East & North Africa (IDA & IBRD countries),2018,1.35,0.18,1.17,
+711,Middle East & North Africa (excluding high income),2000,1.09,0.15,0.94,
+712,Middle East & North Africa (excluding high income),2005,1.23,0.17,1.06,
+713,Middle East & North Africa (excluding high income),2010,1.4,0.19,1.22,
+714,Middle East & North Africa (excluding high income),2015,1.37,0.18,1.19,
+715,Middle East & North Africa (excluding high income),2018,1.35,0.18,1.17,
+716,Middle income,2000,8.39,1.73,6.66,
+717,Middle income,2005,8.49,1.78,6.71,
+718,Middle income,2010,11.19,2.29,8.9,
+719,Middle income,2015,11.36,2.29,9.07,
+720,Middle income,2018,11.14,2.24,8.9,
+721,Moldova,2000,28.67,7.14,21.53,
+722,Moldova,2005,41.08,10.34,30.74,
+723,Moldova,2010,31.93,7.57,24.36,
+724,Moldova,2015,24.45,5.53,18.92,
+725,Moldova,2018,23.56,5.27,18.29,
+726,Mongolia,2000,6.24,1.42,4.82,MNG
+727,Mongolia,2005,10.62,2.41,8.21,MNG
+728,Mongolia,2010,19.45,4.4,15.05,MNG
+729,Mongolia,2015,22.16,5.05,17.11,MNG
+730,Mongolia,2018,16.56,3.77,12.79,MNG
+731,Montenegro,2010,30.61,6.69,23.92,MNE
+732,Montenegro,2015,22.16,4.74,17.42,MNE
+733,Montenegro,2018,23.27,4.97,18.3,MNE
+734,Morocco,2000,2.07,0.28,1.79,MAR
+735,Morocco,2005,1.95,0.26,1.69,MAR
+736,Morocco,2010,1.83,0.24,1.59,MAR
+737,Morocco,2015,1.43,0.19,1.24,MAR
+738,Morocco,2018,1.4,0.18,1.22,MAR
+739,Mozambique,2000,4.89,0.91,3.98,MOZ
+740,Mozambique,2005,2.71,0.51,2.2,MOZ
+741,Mozambique,2010,3.38,0.63,2.75,MOZ
+742,Mozambique,2015,4.51,0.84,3.67,MOZ
+743,Mozambique,2018,4.74,0.88,3.86,MOZ
+744,Myanmar,2000,0.79,0.16,0.63,MMR
+745,Myanmar,2005,3.38,0.67,2.71,MMR
+746,Myanmar,2010,5.94,1.16,4.78,MMR
+747,Myanmar,2015,9.0,1.74,7.26,MMR
+748,Myanmar,2018,10.45,2.02,8.43,MMR
+749,Namibia,2000,6.68,1.17,5.51,NAM
+750,Namibia,2005,5.55,0.98,4.57,NAM
+751,Namibia,2010,4.12,0.76,3.36,NAM
+752,Namibia,2015,10.78,1.99,8.79,NAM
+753,Namibia,2018,11.17,2.07,9.1,NAM
+754,Nauru,2000,12.18,2.11,10.07,NRU
+755,Nauru,2005,6.84,1.16,5.68,NRU
+756,Nauru,2010,11.5,1.95,9.55,NRU
+757,Nauru,2015,7.42,1.26,6.16,NRU
+758,Nauru,2018,7.42,1.26,6.16,NRU
+759,Nepal,2000,2.28,0.4,1.88,NPL
+760,Nepal,2005,3.96,0.69,3.27,NPL
+761,Nepal,2010,4.01,0.71,3.3,NPL
+762,Nepal,2015,4.26,0.76,3.5,NPL
+763,Nepal,2018,4.25,0.76,3.49,NPL
+764,Netherlands,2000,22.36,5.27,17.09,NLD
+765,Netherlands,2005,21.6,5.09,16.51,NLD
+766,Netherlands,2010,20.57,4.84,15.73,NLD
+767,Netherlands,2015,19.23,4.48,14.75,NLD
+768,Netherlands,2018,19.34,4.51,14.83,NLD
+769,New Zealand,2000,21.19,5.0,16.19,NZL
+770,New Zealand,2005,22.23,5.32,16.91,NZL
+771,New Zealand,2010,22.99,5.52,17.47,NZL
+772,New Zealand,2015,21.18,5.09,16.09,NZL
+773,New Zealand,2018,21.55,5.19,16.36,NZL
+774,Nicaragua,2000,10.31,2.07,8.24,NIC
+775,Nicaragua,2005,10.82,2.16,8.66,NIC
+776,Nicaragua,2010,9.78,1.94,7.84,NIC
+777,Nicaragua,2015,10.26,2.02,8.24,NIC
+778,Nicaragua,2018,10.55,2.07,8.48,NIC
+779,Niger,2000,0.48,0.07,0.41,NER
+780,Niger,2005,0.51,0.07,0.44,NER
+781,Niger,2010,0.64,0.09,0.55,NER
+782,Niger,2015,1.11,0.16,0.95,NER
+783,Niger,2018,1.36,0.2,1.16,NER
+784,Nigeria,2000,24.98,4.87,20.11,NGA
+785,Nigeria,2005,24.96,4.93,20.03,NGA
+786,Nigeria,2010,23.38,4.59,18.79,NGA
+787,Nigeria,2015,21.53,4.33,17.2,NGA
+788,Nigeria,2018,21.61,4.37,17.24,NGA
+789,North America,2000,18.62,4.29,14.33,
+790,North America,2005,19.2,4.46,14.74,
+791,North America,2010,19.07,4.4,14.67,
+792,North America,2015,19.63,4.55,15.08,
+793,North America,2018,19.73,4.58,15.15,
+794,North Macedonia,2000,14.67,2.98,11.69,MKD
+795,North Macedonia,2005,14.12,2.84,11.28,MKD
+796,North Macedonia,2010,11.91,2.38,9.53,MKD
+797,North Macedonia,2015,11.9,2.36,9.54,MKD
+798,North Macedonia,2018,12.37,2.44,9.93,MKD
+799,Norway,2000,16.05,3.87,12.18,NOR
+800,Norway,2005,17.88,4.33,13.55,NOR
+801,Norway,2010,17.94,4.35,13.59,NOR
+802,Norway,2015,15.01,3.63,11.38,NOR
+803,Norway,2018,14.78,3.58,11.2,NOR
+804,OECD members,2000,20.2,4.71,15.49,
+805,OECD members,2005,19.87,4.64,15.23,
+806,OECD members,2010,18.41,4.26,14.15,
+807,OECD members,2015,18.6,4.3,14.3,
+808,OECD members,2018,18.6,4.3,14.3,
+809,Oman,2000,11.71,1.87,9.84,OMN
+810,Oman,2005,2.77,0.44,2.33,OMN
+811,Oman,2010,1.24,0.21,1.03,OMN
+812,Oman,2015,1.22,0.19,1.03,OMN
+813,Oman,2018,1.23,0.19,1.04,OMN
+814,Other small states,2000,11.72,2.46,9.26,
+815,Other small states,2005,12.15,2.67,9.47,
+816,Other small states,2010,10.99,2.5,8.49,
+817,Other small states,2015,10.61,2.42,8.19,
+818,Other small states,2018,9.95,2.25,7.69,
+819,Pacific island small states,2000,5.14,0.89,4.25,
+820,Pacific island small states,2005,4.86,0.83,4.02,
+821,Pacific island small states,2010,4.78,0.81,3.97,
+822,Pacific island small states,2015,4.81,0.81,3.99,
+823,Pacific island small states,2018,4.94,0.83,4.1,
+824,Pakistan,2000,0.17,0.03,0.14,PAK
+825,Pakistan,2005,0.31,0.05,0.26,PAK
+826,Pakistan,2010,0.37,0.06,0.31,PAK
+827,Pakistan,2015,0.57,0.09,0.48,PAK
+828,Pakistan,2018,0.68,0.11,0.57,PAK
+829,Panama,2000,10.96,2.23,8.73,PAN
+830,Panama,2005,10.97,2.24,8.73,PAN
+831,Panama,2010,13.69,2.86,10.83,PAN
+832,Panama,2015,15.45,3.31,12.14,PAN
+833,Panama,2018,16.01,3.44,12.57,PAN
+834,Papua New Guinea,2000,3.57,0.61,2.96,PNG
+835,Papua New Guinea,2005,3.19,0.54,2.65,PNG
+836,Papua New Guinea,2010,3.32,0.56,2.76,PNG
+837,Papua New Guinea,2015,2.77,0.47,2.3,PNG
+838,Papua New Guinea,2018,2.77,0.47,2.3,PNG
+839,Paraguay,2000,12.69,2.68,10.01,PRY
+840,Paraguay,2005,13.24,2.79,10.45,PRY
+841,Paraguay,2010,15.06,3.19,11.87,PRY
+842,Paraguay,2015,14.41,3.05,11.36,PRY
+843,Paraguay,2018,15.04,3.18,11.86,PRY
+844,Peru,2000,13.14,3.1,10.04,PER
+845,Peru,2005,14.06,3.32,10.74,PER
+846,Peru,2010,15.46,3.68,11.78,PER
+847,Peru,2015,13.33,3.18,10.15,PER
+848,Peru,2018,12.83,3.06,9.77,PER
+849,Philippines,2000,12.15,2.46,9.69,PHL
+850,Philippines,2005,11.38,2.3,9.08,PHL
+851,Philippines,2010,13.96,2.82,11.14,PHL
+852,Philippines,2015,13.41,2.73,10.68,PHL
+853,Philippines,2018,13.75,2.8,10.95,PHL
+854,Poland,2000,18.77,4.22,14.55,POL
+855,Poland,2005,21.71,4.97,16.74,POL
+856,Poland,2010,22.96,5.33,17.63,POL
+857,Poland,2015,23.82,5.54,18.28,POL
+858,Poland,2018,23.99,5.58,18.41,POL
+859,Portugal,2000,28.86,6.8,22.06,PRT
+860,Portugal,2005,27.37,6.41,20.96,PRT
+861,Portugal,2010,25.78,5.88,19.9,PRT
+862,Portugal,2015,24.65,5.48,19.17,PRT
+863,Portugal,2018,24.97,5.56,19.41,PRT
+864,Post-demographic dividend,2000,22.34,5.23,17.11,
+865,Post-demographic dividend,2005,21.88,5.14,16.74,
+866,Post-demographic dividend,2010,20.57,4.8,15.77,
+867,Post-demographic dividend,2015,20.54,4.77,15.76,
+868,Post-demographic dividend,2018,20.46,4.76,15.71,
+869,Pre-demographic dividend,2000,12.5,2.39,10.1,
+870,Pre-demographic dividend,2005,12.12,2.34,9.78,
+871,Pre-demographic dividend,2010,11.99,2.32,9.67,
+872,Pre-demographic dividend,2015,11.23,2.18,9.05,
+873,Pre-demographic dividend,2018,11.21,2.18,9.03,
+874,Qatar,2000,1.82,0.3,1.52,QAT
+875,Qatar,2005,2.58,0.42,2.16,QAT
+876,Qatar,2010,2.41,0.39,2.02,QAT
+877,Qatar,2015,2.34,0.4,1.94,QAT
+878,Qatar,2018,2.31,0.4,1.91,QAT
+879,Romania,2000,35.52,8.39,27.13,ROU
+880,Romania,2005,32.28,7.62,24.66,ROU
+881,Romania,2010,28.53,6.75,21.78,ROU
+882,Romania,2015,23.82,5.45,18.37,ROU
+883,Romania,2018,24.02,5.45,18.57,ROU
+884,Russian Federation,2000,33.08,6.88,26.2,RUS
+885,Russian Federation,2005,36.49,7.97,28.52,RUS
+886,Russian Federation,2010,33.5,6.96,26.54,RUS
+887,Russian Federation,2015,26.4,5.12,21.28,RUS
+888,Russian Federation,2018,23.7,4.58,19.12,RUS
+889,Rwanda,2000,28.08,5.94,22.14,RWA
+890,Rwanda,2005,26.52,5.48,21.04,RWA
+891,Rwanda,2010,20.96,4.12,16.84,RWA
+892,Rwanda,2015,18.88,3.64,15.24,RWA
+893,Rwanda,2018,18.26,3.51,14.75,RWA
+894,Samoa,2000,7.4,1.26,6.14,WSM
+895,Samoa,2005,8.22,1.39,6.83,WSM
+896,Samoa,2010,5.82,0.98,4.84,WSM
+897,Samoa,2015,5.07,0.86,4.21,WSM
+898,Samoa,2018,5.21,0.88,4.33,WSM
+899,Sao Tome and Principe,2000,16.58,3.61,12.97,STP
+900,Sao Tome and Principe,2005,17.61,3.84,13.77,STP
+901,Sao Tome and Principe,2010,16.82,3.65,13.17,STP
+902,Sao Tome and Principe,2015,14.48,3.11,11.37,STP
+903,Sao Tome and Principe,2018,11.85,2.55,9.3,STP
+904,Saudi Arabia,2000,0.33,0.04,0.29,SAU
+905,Saudi Arabia,2005,0.3,0.04,0.26,SAU
+906,Saudi Arabia,2010,0.3,0.04,0.26,SAU
+907,Saudi Arabia,2015,0.36,0.04,0.31,SAU
+908,Saudi Arabia,2018,0.33,0.04,0.29,SAU
+909,Senegal,2000,1.97,0.29,1.68,SEN
+910,Senegal,2005,1.75,0.26,1.49,SEN
+911,Senegal,2010,1.23,0.18,1.05,SEN
+912,Senegal,2015,1.5,0.22,1.28,SEN
+913,Senegal,2018,1.58,0.23,1.35,SEN
+914,Serbia,2010,23.8,5.24,18.56,SRB
+915,Serbia,2015,17.71,3.87,13.84,SRB
+916,Serbia,2018,17.82,3.89,13.93,SRB
+917,Seychelles,2000,15.38,3.42,11.96,SYC
+918,Seychelles,2005,12.32,2.72,9.6,SYC
+919,Seychelles,2010,20.03,4.44,15.59,SYC
+920,Seychelles,2015,36.96,8.39,28.57,SYC
+921,Seychelles,2018,41.47,9.51,31.96,SYC
+922,Sierra Leone,2000,11.74,1.83,9.91,SLE
+923,Sierra Leone,2005,11.28,1.67,9.61,SLE
+924,Sierra Leone,2010,11.81,1.65,10.16,SLE
+925,Sierra Leone,2015,11.4,1.59,9.81,SLE
+926,Sierra Leone,2018,11.54,1.61,9.93,SLE
+927,Singapore,2000,5.01,1.28,3.73,SGP
+928,Singapore,2005,3.6,0.93,2.67,SGP
+929,Singapore,2010,4.41,1.13,3.28,SGP
+930,Singapore,2015,4.18,1.07,3.11,SGP
+931,Singapore,2018,4.1,1.04,3.06,SGP
+932,Slovak Republic,2000,25.51,5.92,19.59,
+933,Slovak Republic,2005,24.67,5.77,18.9,
+934,Slovak Republic,2010,24.52,5.81,18.71,
+935,Slovak Republic,2015,23.52,5.55,17.97,
+936,Slovak Republic,2018,22.72,5.35,17.37,
+937,Slovenia,2000,25.63,6.04,19.59,SVN
+938,Slovenia,2005,25.0,5.91,19.09,SVN
+939,Slovenia,2010,23.3,5.46,17.84,SVN
+940,Slovenia,2015,25.66,6.01,19.65,SVN
+941,Slovenia,2018,23.96,5.6,18.36,SVN
+942,Small states,2000,11.36,2.37,8.99,
+943,Small states,2005,11.62,2.51,9.11,
+944,Small states,2010,10.76,2.38,8.38,
+945,Small states,2015,10.56,2.35,8.21,
+946,Small states,2018,10.04,2.22,7.82,
+947,Solomon Islands,2000,2.37,0.41,1.96,SLB
+948,Solomon Islands,2005,3.19,0.55,2.64,SLB
+949,Solomon Islands,2010,3.2,0.55,2.65,SLB
+950,Solomon Islands,2015,3.09,0.53,2.56,SLB
+951,Solomon Islands,2018,3.65,0.63,3.02,SLB
+952,Somalia,2000,0.0,0.0,0.0,SOM
+953,Somalia,2005,0.14,0.02,0.12,SOM
+954,Somalia,2010,0.56,0.07,0.49,SOM
+955,Somalia,2015,0.03,0.0,0.02,SOM
+956,Somalia,2018,0.02,0.0,0.02,SOM
+957,South Africa,2000,20.45,3.76,16.69,ZAF
+958,South Africa,2005,19.54,3.62,15.92,ZAF
+959,South Africa,2010,20.45,3.74,16.71,ZAF
+960,South Africa,2015,19.58,3.53,16.05,ZAF
+961,South Africa,2018,19.4,3.49,15.91,ZAF
+962,South Asia,2000,3.63,0.63,3.01,
+963,South Asia,2005,3.74,0.65,3.1,
+964,South Asia,2010,6.78,1.16,5.62,
+965,South Asia,2015,8.56,1.47,7.09,
+966,South Asia,2018,8.58,1.47,7.11,
+967,South Asia (IDA & IBRD),2000,3.63,0.63,3.01,
+968,South Asia (IDA & IBRD),2005,3.74,0.65,3.1,
+969,South Asia (IDA & IBRD),2010,6.78,1.16,5.62,
+970,South Asia (IDA & IBRD),2015,8.56,1.47,7.09,
+971,South Asia (IDA & IBRD),2018,8.58,1.47,7.11,
+972,Spain,2000,25.2,5.9,19.3,ESP
+973,Spain,2005,25.94,6.08,19.86,ESP
+974,Spain,2010,20.27,4.6,15.67,ESP
+975,Spain,2015,22.98,5.13,17.85,ESP
+976,Spain,2018,25.84,5.77,20.07,ESP
+977,Sri Lanka,2000,4.47,0.89,3.58,LKA
+978,Sri Lanka,2005,5.25,1.04,4.21,LKA
+979,Sri Lanka,2010,8.03,1.59,6.44,LKA
+980,Sri Lanka,2015,8.45,1.69,6.76,LKA
+981,Sri Lanka,2018,8.48,1.7,6.78,LKA
+982,St. Kitts and Nevis,2000,19.22,4.21,15.01,
+983,St. Kitts and Nevis,2005,23.31,5.2,18.11,
+984,St. Kitts and Nevis,2010,19.11,4.21,14.9,
+985,St. Kitts and Nevis,2015,17.96,3.92,14.04,
+986,St. Kitts and Nevis,2018,18.09,3.95,14.14,
+987,St. Lucia,2000,24.03,5.03,19.0,
+988,St. Lucia,2005,23.67,5.0,18.67,
+989,St. Lucia,2010,19.68,4.06,15.62,
+990,St. Lucia,2015,20.26,4.13,16.13,
+991,St. Lucia,2018,21.55,4.39,17.16,
+992,St. Vincent and the Grenadines,2000,9.97,2.0,7.97,
+993,St. Vincent and the Grenadines,2005,11.9,2.4,9.5,
+994,St. Vincent and the Grenadines,2010,13.98,2.83,11.15,
+995,St. Vincent and the Grenadines,2015,16.84,3.41,13.43,
+996,St. Vincent and the Grenadines,2018,18.03,3.65,14.38,
+997,Sub-Saharan Africa,2000,12.74,2.45,10.29,
+998,Sub-Saharan Africa,2005,12.31,2.38,9.93,
+999,Sub-Saharan Africa,2010,12.66,2.44,10.23,
+1000,Sub-Saharan Africa,2015,11.83,2.28,9.55,
+1001,Sub-Saharan Africa,2018,11.75,2.26,9.48,
+1002,Sub-Saharan Africa (IDA & IBRD countries),2000,12.74,2.45,10.29,
+1003,Sub-Saharan Africa (IDA & IBRD countries),2005,12.31,2.38,9.93,
+1004,Sub-Saharan Africa (IDA & IBRD countries),2010,12.66,2.44,10.23,
+1005,Sub-Saharan Africa (IDA & IBRD countries),2015,11.83,2.28,9.55,
+1006,Sub-Saharan Africa (IDA & IBRD countries),2018,11.75,2.26,9.48,
+1007,Sub-Saharan Africa (excluding high income),2000,12.74,2.45,10.29,
+1008,Sub-Saharan Africa (excluding high income),2005,12.31,2.38,9.93,
+1009,Sub-Saharan Africa (excluding high income),2010,12.66,2.44,10.22,
+1010,Sub-Saharan Africa (excluding high income),2015,11.83,2.28,9.55,
+1011,Sub-Saharan Africa (excluding high income),2018,11.74,2.26,9.48,
+1012,Sudan,2015,1.05,0.15,0.9,SDN
+1013,Sudan,2018,1.02,0.14,0.88,SDN
+1014,Suriname,2000,10.58,2.11,8.47,SUR
+1015,Suriname,2005,10.83,2.19,8.64,SUR
+1016,Suriname,2010,12.49,2.55,9.94,SUR
+1017,Suriname,2015,11.66,2.41,9.25,SUR
+1018,Suriname,2018,10.72,2.23,8.49,SUR
+1019,Sweden,2000,17.22,3.91,13.31,SWE
+1020,Sweden,2005,17.42,4.01,13.41,SWE
+1021,Sweden,2010,19.09,4.44,14.65,SWE
+1022,Sweden,2015,18.31,4.29,14.02,SWE
+1023,Sweden,2018,17.9,4.21,13.69,SWE
+1024,Switzerland,2000,25.42,6.14,19.28,CHE
+1025,Switzerland,2005,23.66,5.69,17.97,CHE
+1026,Switzerland,2010,23.11,5.56,17.55,CHE
+1027,Switzerland,2015,23.37,5.64,17.73,CHE
+1028,Switzerland,2018,23.25,5.6,17.65,CHE
+1029,Syrian Arab Republic,2000,2.29,0.3,1.99,SYR
+1030,Syrian Arab Republic,2005,1.82,0.24,1.58,SYR
+1031,Syrian Arab Republic,2010,1.77,0.23,1.54,SYR
+1032,Syrian Arab Republic,2015,0.56,0.07,0.49,SYR
+1033,Syrian Arab Republic,2018,0.48,0.06,0.42,SYR
+1034,Tajikistan,2000,5.98,0.96,5.02,TJK
+1035,Tajikistan,2005,5.02,0.79,4.23,TJK
+1036,Tajikistan,2010,4.81,0.74,4.07,TJK
+1037,Tajikistan,2015,6.26,0.95,5.31,TJK
+1038,Tajikistan,2018,6.59,0.99,5.6,TJK
+1039,Tanzania,2000,17.51,3.11,14.4,
+1040,Tanzania,2005,17.69,3.13,14.56,
+1041,Tanzania,2010,19.83,3.52,16.31,
+1042,Tanzania,2015,22.46,4.02,18.44,
+1043,Tanzania,2018,22.91,4.12,18.79,
+1044,Thailand,2000,13.17,2.7,10.47,THA
+1045,Thailand,2005,13.85,2.85,11.0,THA
+1046,Thailand,2010,15.7,3.24,12.46,THA
+1047,Thailand,2015,17.06,3.54,13.52,THA
+1048,Thailand,2018,16.94,3.52,13.42,THA
+1049,Timor-Leste,2000,3.04,0.61,2.43,TLS
+1050,Timor-Leste,2005,1.66,0.34,1.32,TLS
+1051,Timor-Leste,2010,1.4,0.29,1.11,TLS
+1052,Timor-Leste,2015,3.99,0.82,3.17,TLS
+1053,Timor-Leste,2018,4.32,0.89,3.43,TLS
+1054,Togo,2000,3.61,0.76,2.85,TGO
+1055,Togo,2005,6.57,1.37,5.2,TGO
+1056,Togo,2010,4.24,0.88,3.36,TGO
+1057,Togo,2015,4.76,0.98,3.78,TGO
+1058,Togo,2018,4.95,1.02,3.93,TGO
+1059,Tonga,2000,3.4,0.59,2.81,TON
+1060,Tonga,2005,4.69,0.81,3.88,TON
+1061,Tonga,2010,2.83,0.49,2.34,TON
+1062,Tonga,2015,1.38,0.24,1.14,TON
+1063,Tonga,2018,1.61,0.28,1.33,TON
+1064,Trinidad and Tobago,2000,10.61,2.28,8.33,TTO
+1065,Trinidad and Tobago,2005,12.44,2.78,9.66,TTO
+1066,Trinidad and Tobago,2010,12.54,2.81,9.73,TTO
+1067,Trinidad and Tobago,2015,13.92,3.09,10.83,TTO
+1068,Trinidad and Tobago,2018,13.61,3.03,10.58,TTO
+1069,Tunisia,2000,2.73,0.37,2.36,TUN
+1070,Tunisia,2005,2.96,0.4,2.56,TUN
+1071,Tunisia,2010,2.84,0.38,2.46,TUN
+1072,Tunisia,2015,4.05,0.53,3.52,TUN
+1073,Tunisia,2018,4.31,0.56,3.75,TUN
+1074,Turkiye,2000,4.92,0.67,4.25,
+1075,Turkiye,2005,4.33,0.59,3.74,
+1076,Turkiye,2010,4.74,0.64,4.1,
+1077,Turkiye,2015,4.34,0.58,3.76,
+1078,Turkiye,2018,4.18,0.56,3.62,
+1079,Turkmenistan,2000,9.85,1.61,8.24,TKM
+1080,Turkmenistan,2005,9.96,1.61,8.35,TKM
+1081,Turkmenistan,2010,9.83,1.6,8.23,TKM
+1082,Turkmenistan,2015,10.79,1.78,9.01,TKM
+1083,Turkmenistan,2018,10.05,1.65,8.4,TKM
+1084,Tuvalu,2000,3.87,0.65,3.22,TUV
+1085,Tuvalu,2005,4.01,0.67,3.34,TUV
+1086,Tuvalu,2010,3.34,0.56,2.78,TUV
+1087,Tuvalu,2015,3.92,0.65,3.27,TUV
+1088,Tuvalu,2018,3.01,0.5,2.51,TUV
+1089,Uganda,2000,27.67,5.61,22.06,UGA
+1090,Uganda,2005,26.24,5.33,20.91,UGA
+1091,Uganda,2010,27.33,5.54,21.79,UGA
+1092,Uganda,2015,30.62,5.92,24.7,UGA
+1093,Uganda,2018,30.5,5.88,24.62,UGA
+1094,Ukraine,2000,26.29,5.44,20.85,UKR
+1095,Ukraine,2005,25.3,5.51,19.79,UKR
+1096,Ukraine,2010,28.65,6.34,22.31,UKR
+1097,Ukraine,2015,21.5,4.49,17.01,UKR
+1098,Ukraine,2018,17.61,3.65,13.96,UKR
+1099,United Arab Emirates,2000,3.86,0.51,3.35,ARE
+1100,United Arab Emirates,2005,5.36,0.74,4.62,ARE
+1101,United Arab Emirates,2010,4.5,0.64,3.86,ARE
+1102,United Arab Emirates,2015,5.5,0.8,4.7,ARE
+1103,United Arab Emirates,2018,5.72,0.84,4.88,ARE
+1104,United Kingdom,2000,27.99,6.61,21.38,GBR
+1105,United Kingdom,2005,28.23,6.75,21.48,GBR
+1106,United Kingdom,2010,24.45,5.74,18.71,GBR
+1107,United Kingdom,2015,22.68,5.28,17.4,GBR
+1108,United Kingdom,2018,23.15,5.39,17.76,GBR
+1109,United States,2000,18.62,4.29,14.33,USA
+1110,United States,2005,19.2,4.46,14.74,USA
+1111,United States,2010,18.92,4.38,14.54,USA
+1112,United States,2015,19.83,4.61,15.22,USA
+1113,United States,2018,19.93,4.64,15.29,USA
+1114,Upper middle income,2000,11.32,2.4,8.92,
+1115,Upper middle income,2005,11.61,2.51,9.09,
+1116,Upper middle income,2010,14.98,3.2,11.78,
+1117,Upper middle income,2015,14.3,3.04,11.26,
+1118,Upper middle income,2018,13.87,2.96,10.91,
+1119,Uruguay,2000,16.63,3.79,12.84,URY
+1120,Uruguay,2005,15.35,3.49,11.86,URY
+1121,Uruguay,2010,14.61,3.39,11.22,URY
+1122,Uruguay,2015,14.37,3.4,10.97,URY
+1123,Uruguay,2018,14.2,3.37,10.83,URY
+1124,Uzbekistan,2000,11.53,1.75,9.78,UZB
+1125,Uzbekistan,2005,8.43,1.28,7.15,UZB
+1126,Uzbekistan,2010,6.1,0.93,5.17,UZB
+1127,Uzbekistan,2015,5.24,0.79,4.45,UZB
+1128,Uzbekistan,2018,5.25,0.79,4.46,UZB
+1129,Vanuatu,2000,2.31,0.4,1.91,VUT
+1130,Vanuatu,2005,2.37,0.41,1.96,VUT
+1131,Vanuatu,2010,3.39,0.58,2.81,VUT
+1132,Vanuatu,2015,4.29,0.74,3.55,VUT
+1133,Vanuatu,2018,4.5,0.77,3.73,VUT
+1134,"Venezuela, RB",2000,18.35,3.9,14.45,
+1135,"Venezuela, RB",2005,18.93,4.04,14.89,
+1136,"Venezuela, RB",2010,17.45,3.73,13.72,
+1137,"Venezuela, RB",2015,13.75,2.9,10.85,
+1138,"Venezuela, RB",2018,8.35,1.75,6.6,
+1139,Vietnam,2000,4.51,0.9,3.61,
+1140,Vietnam,2005,5.34,1.06,4.28,
+1141,Vietnam,2010,9.95,1.97,7.98,
+1142,Vietnam,2015,15.99,3.16,12.83,
+1143,Vietnam,2018,17.59,3.49,14.1,
+1144,World,2000,10.96,2.41,8.55,
+1145,World,2005,10.83,2.39,8.43,
+1146,World,2010,12.52,2.69,9.84,
+1147,World,2015,12.56,2.66,9.9,
+1148,World,2018,12.34,2.61,9.73,
+1149,"Yemen, Rep.",2000,1.57,0.21,1.36,
+1150,"Yemen, Rep.",2005,0.69,0.09,0.6,
+1151,"Yemen, Rep.",2010,0.35,0.05,0.3,
+1152,"Yemen, Rep.",2015,0.11,0.01,0.09,
+1153,"Yemen, Rep.",2018,0.1,0.01,0.09,
+1154,Zambia,2000,8.21,1.62,6.59,ZMB
+1155,Zambia,2005,7.91,1.56,6.35,ZMB
+1156,Zambia,2010,11.0,2.17,8.83,ZMB
+1157,Zambia,2015,13.95,2.75,11.2,ZMB
+1158,Zambia,2018,13.24,2.62,10.62,ZMB
+1159,Zimbabwe,2000,5.04,0.88,4.16,ZWE
+1160,Zimbabwe,2005,5.71,0.99,4.72,ZWE
+1161,Zimbabwe,2010,8.1,1.39,6.71,ZWE
+1162,Zimbabwe,2015,10.15,1.72,8.43,ZWE
+1163,Zimbabwe,2018,9.63,1.63,8.0,ZWE

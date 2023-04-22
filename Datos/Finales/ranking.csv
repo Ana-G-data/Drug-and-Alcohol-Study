@@ -1,0 +1,623 @@
+,Region,SubRegion,ISO3,Country/Territory,Drug Group,Ranking
+2,Africa,North Africa,DZA,Algeria,Cannabis-type drugs,1
+3,Africa,North Africa,DZA,Algeria, (Non-medical use of) pharmaceutical sedatives and tranquillizers,2
+4,Africa,North Africa,DZA,Algeria, “Ecstasy”-type substances,3
+5,Africa,North Africa,DZA,Algeria, Cocaine-type drugs,4
+6,Africa,North Africa,DZA,Algeria, Hallucinogens,5
+7,Africa,North Africa,DZA,Algeria," Opioids, including opiates and synthetic opioids",6
+8,Europe,Western and Central Europe,AND,Andorra,Cannabis-type drugs,1
+9,Europe,Western and Central Europe,AND,Andorra, Cocaine-type drugs,2
+10,Europe,Western and Central Europe,AND,Andorra, Amphetamine-type stimulants,3
+11,Europe,Western and Central Europe,AND,Andorra, Hallucinogens,4
+12,Americas,South America,ARG,Argentina,Cannabis-type drugs,1
+13,Americas,South America,ARG,Argentina, Cocaine-type drugs,2
+14,Americas,South America,ARG,Argentina, (Non-medical use of) pharmaceutical sedatives and tranquillizers,3
+15,Americas,South America,ARG,Argentina, Hallucinogens,4
+16,Americas,South America,ARG,Argentina, Amphetamine-type stimulants,5
+17,Americas,South America,ARG,Argentina, Solvents and inhalants,6
+18,Asia,Central Asia and Transcaucasia,ARM,Armenia,Cannabis-type drugs,1
+19,Asia,Central Asia and Transcaucasia,ARM,Armenia," Opioids, including opiates and synthetic opioids",2
+20,Asia,Central Asia and Transcaucasia,ARM,Armenia, Amphetamine-type stimulants,3
+21,Asia,Central Asia and Transcaucasia,ARM,Armenia, “Ecstasy”-type substances,4
+22,Asia,Central Asia and Transcaucasia,ARM,Armenia, Cocaine-type drugs,5
+23,Asia,Central Asia and Transcaucasia,ARM,Armenia, New psychoactive substances,6
+24,Asia,Central Asia and Transcaucasia,ARM,Armenia, Hallucinogens,7
+25,Asia,Central Asia and Transcaucasia,ARM,Armenia, Solvents and inhalants,8
+26,Asia,Central Asia and Transcaucasia,ARM,Armenia, (Non-medical use of) pharmaceutical sedatives and tranquillizers,9
+27,Oceania,Australia and New Zealand,AUS,Australia,Cannabis-type drugs,1
+28,Oceania,Australia and New Zealand,AUS,Australia, Cocaine-type drugs,2
+29,Oceania,Australia and New Zealand,AUS,Australia, “Ecstasy”-type substances,3
+30,Oceania,Australia and New Zealand,AUS,Australia," Opioids, including opiates and synthetic opioids",4
+31,Oceania,Australia and New Zealand,AUS,Australia, Hallucinogens,5
+32,Oceania,Australia and New Zealand,AUS,Australia, Amphetamine-type stimulants,6
+33,Oceania,Australia and New Zealand,AUS,Australia, Solvents and inhalants,7
+34,Oceania,Australia and New Zealand,AUS,Australia, New psychoactive substances,8
+35,Europe,Western and Central Europe,AUT,Austria,Cannabis-type drugs,1
+36,Europe,Western and Central Europe,AUT,Austria, Cocaine-type drugs,2
+37,Europe,Western and Central Europe,AUT,Austria, Amphetamine-type stimulants,3
+38,Europe,Western and Central Europe,AUT,Austria, “Ecstasy”-type substances,4
+39,Europe,Western and Central Europe,AUT,Austria," Opioids, including opiates and synthetic opioids",5
+40,Europe,Western and Central Europe,AUT,Austria, (Non-medical use of) pharmaceutical sedatives and tranquillizers,6
+41,Asia,Central Asia and Transcaucasia,AZE,Azerbaijan,"Opioids, including opiates and synthetic opioids",1
+42,Asia,Central Asia and Transcaucasia,AZE,Azerbaijan, Cannabis-type drugs,2
+43,Asia,Central Asia and Transcaucasia,AZE,Azerbaijan, Amphetamine-type stimulants,3
+44,Asia,Central Asia and Transcaucasia,AZE,Azerbaijan, (Non-medical use of) pharmaceutical sedatives and tranquillizers,4
+45,Americas,Caribbean,BHS,Bahamas (the),Cannabis-type drugs,1
+46,Americas,Caribbean,BHS,Bahamas (the), Cocaine-type drugs,2
+47,Americas,Caribbean,BHS,Bahamas (the), (Non-medical use of) pharmaceutical sedatives and tranquillizers,3
+48,Americas,Caribbean,BHS,Bahamas (the), Amphetamine-type stimulants,4
+49,Americas,Caribbean,BHS,Bahamas (the)," Opioids, including opiates and synthetic opioids",5
+50,Americas,Caribbean,BHS,Bahamas (the), “Ecstasy”-type substances,6
+51,Americas,Caribbean,BHS,Bahamas (the), Solvents and inhalants,7
+52,Americas,Caribbean,BHS,Bahamas (the), Hallucinogens,8
+53,Europe,Eastern Europe,BLR,Belarus,"Opioids, including opiates and synthetic opioids",1
+54,Europe,Eastern Europe,BLR,Belarus, Cannabis-type drugs,2
+55,Europe,Eastern Europe,BLR,Belarus, Amphetamine-type stimulants,3
+56,Europe,Western and Central Europe,BEL,Belgium,Cannabis-type drugs,1
+57,Europe,Western and Central Europe,BEL,Belgium, Cocaine-type drugs,2
+58,Europe,Western and Central Europe,BEL,Belgium, “Ecstasy”-type substances,3
+59,Europe,Western and Central Europe,BEL,Belgium, Amphetamine-type stimulants,4
+60,Europe,Western and Central Europe,BEL,Belgium," Opioids, including opiates and synthetic opioids",5
+61,Europe,Western and Central Europe,BEL,Belgium, Hallucinogens,6
+62,Europe,Western and Central Europe,BEL,Belgium, New psychoactive substances,7
+63,Europe,Western and Central Europe,BEL,Belgium, (Non-medical use of) pharmaceutical sedatives and tranquillizers,8
+64,Europe,Western and Central Europe,BEL,Belgium, Solvents and inhalants,9
+65,Europe,Western and Central Europe,BEL,Belgium, Other drugs / psychoactive substances / pharmaceutical products not listed above,10
+66,Asia,South Asia,BTN,Bhutan,Cannabis-type drugs,1
+67,Asia,South Asia,BTN,Bhutan, (Non-medical use of) pharmaceutical sedatives and tranquillizers,2
+68,Asia,South Asia,BTN,Bhutan," Opioids, including opiates and synthetic opioids",3
+69,Asia,South Asia,BTN,Bhutan, Solvents and inhalants,4
+70,Americas,South America,BOL,Bolivia (Plurinational State of),Cannabis-type drugs,1
+71,Americas,South America,BOL,Bolivia (Plurinational State of), Cocaine-type drugs,2
+72,Americas,South America,BOL,Bolivia (Plurinational State of), Solvents and inhalants,3
+73,Americas,South America,BOL,Bolivia (Plurinational State of), “Ecstasy”-type substances,4
+74,Americas,South America,BOL,Bolivia (Plurinational State of), Amphetamine-type stimulants,5
+75,Americas,South America,BOL,Bolivia (Plurinational State of), (Non-medical use of) pharmaceutical sedatives and tranquillizers,6
+76,Asia,East and South-East Asia,BRN,Brunei Darussalam,Amphetamine-type stimulants,1
+77,Asia,East and South-East Asia,BRN,Brunei Darussalam, Cannabis-type drugs,2
+78,Asia,East and South-East Asia,BRN,Brunei Darussalam, “Ecstasy”-type substances,3
+79,Asia,East and South-East Asia,BRN,Brunei Darussalam, Solvents and inhalants,4
+80,Asia,East and South-East Asia,BRN,Brunei Darussalam, New psychoactive substances,5
+81,Asia,East and South-East Asia,BRN,Brunei Darussalam, Other drugs / psychoactive substances / pharmaceutical products not listed above,6
+82,Europe,South-Eastern Europe,BGR,Bulgaria,Cannabis-type drugs,1
+83,Europe,South-Eastern Europe,BGR,Bulgaria, Amphetamine-type stimulants,2
+84,Europe,South-Eastern Europe,BGR,Bulgaria, Cocaine-type drugs,3
+85,Europe,South-Eastern Europe,BGR,Bulgaria, “Ecstasy”-type substances,4
+86,Europe,South-Eastern Europe,BGR,Bulgaria," Opioids, including opiates and synthetic opioids",5
+87,Europe,South-Eastern Europe,BGR,Bulgaria, New psychoactive substances,6
+88,Europe,South-Eastern Europe,BGR,Bulgaria, (Non-medical use of) pharmaceutical sedatives and tranquillizers,7
+89,Europe,South-Eastern Europe,BGR,Bulgaria, Hallucinogens,8
+90,Europe,South-Eastern Europe,BGR,Bulgaria, Solvents and inhalants,9
+91,Americas,North America,CAN,Canada,Cannabis-type drugs,1
+92,Americas,North America,CAN,Canada," Opioids, including opiates and synthetic opioids",2
+93,Americas,North America,CAN,Canada, Cocaine-type drugs,3
+94,Americas,North America,CAN,Canada, Hallucinogens,4
+95,Americas,North America,CAN,Canada, (Non-medical use of) pharmaceutical sedatives and tranquillizers,5
+96,Americas,North America,CAN,Canada, “Ecstasy”-type substances,6
+97,Americas,North America,CAN,Canada, Amphetamine-type stimulants,7
+98,Americas,North America,CAN,Canada, Other drugs / psychoactive substances / pharmaceutical products not listed above,8
+99,Americas,North America,CAN,Canada, Solvents and inhalants,9
+100,Americas,South America,CHL,Chile,Cannabis-type drugs,1
+101,Americas,South America,CHL,Chile, (Non-medical use of) pharmaceutical sedatives and tranquillizers,2
+102,Americas,South America,CHL,Chile," Opioids, including opiates and synthetic opioids",3
+103,Americas,South America,CHL,Chile, Hallucinogens,4
+104,Americas,South America,CHL,Chile, Cocaine-type drugs,5
+105,Americas,South America,CHL,Chile, New psychoactive substances,6
+106,Americas,South America,CHL,Chile, Solvents and inhalants,7
+107,Americas,South America,CHL,Chile, “Ecstasy”-type substances,8
+108,Americas,South America,CHL,Chile, Other drugs / psychoactive substances / pharmaceutical products not listed above,9
+109,Americas,South America,CHL,Chile, Amphetamine-type stimulants,10
+110,Asia,East and South-East Asia,CHN,China,Amphetamine-type stimulants,1
+111,Asia,East and South-East Asia,CHN,China," Opioids, including opiates and synthetic opioids",2
+112,Asia,East and South-East Asia,CHN,China, Cannabis-type drugs,3
+113,Asia,East and South-East Asia,CHN,China, “Ecstasy”-type substances,4
+114,Asia,East and South-East Asia,CHN,China, Cocaine-type drugs,5
+115,Asia,East and South-East Asia,HKG,"China, Hong Kong SAR","Opioids, including opiates and synthetic opioids",1
+116,Asia,East and South-East Asia,HKG,"China, Hong Kong SAR", Amphetamine-type stimulants,2
+117,Asia,East and South-East Asia,HKG,"China, Hong Kong SAR", (Non-medical use of) pharmaceutical sedatives and tranquillizers,3
+118,Asia,East and South-East Asia,HKG,"China, Hong Kong SAR", Cannabis-type drugs,4
+119,Asia,East and South-East Asia,HKG,"China, Hong Kong SAR", Cocaine-type drugs,5
+120,Asia,East and South-East Asia,HKG,"China, Hong Kong SAR", New psychoactive substances,6
+121,Asia,East and South-East Asia,HKG,"China, Hong Kong SAR", Other drugs / psychoactive substances / pharmaceutical products not listed above,7
+122,Asia,East and South-East Asia,HKG,"China, Hong Kong SAR", “Ecstasy”-type substances,8
+123,Asia,East and South-East Asia,HKG,"China, Hong Kong SAR", Hallucinogens,9
+124,Asia,East and South-East Asia,HKG,"China, Hong Kong SAR", Solvents and inhalants,10
+125,Asia,East and South-East Asia,MAC,"China, Macao SAR",Amphetamine-type stimulants,1
+126,Asia,East and South-East Asia,MAC,"China, Macao SAR", Cocaine-type drugs,2
+127,Asia,East and South-East Asia,MAC,"China, Macao SAR", Cannabis-type drugs,3
+128,Asia,East and South-East Asia,MAC,"China, Macao SAR"," Opioids, including opiates and synthetic opioids",4
+129,Asia,East and South-East Asia,MAC,"China, Macao SAR", New psychoactive substances,5
+130,Americas,South America,COL,Colombia,Cannabis-type drugs,1
+131,Americas,South America,COL,Colombia, Cocaine-type drugs,2
+132,Americas,South America,COL,Colombia, (Non-medical use of) pharmaceutical sedatives and tranquillizers,3
+133,Americas,South America,COL,Colombia, Solvents and inhalants,4
+134,Americas,South America,COL,Colombia, Hallucinogens,5
+135,Americas,South America,COL,Colombia, “Ecstasy”-type substances,6
+136,Americas,South America,COL,Colombia," Opioids, including opiates and synthetic opioids",7
+137,Americas,Central America,CRI,Costa Rica,Cannabis-type drugs,1
+138,Americas,Central America,CRI,Costa Rica, Cocaine-type drugs,2
+139,Americas,Central America,CRI,Costa Rica, (Non-medical use of) pharmaceutical sedatives and tranquillizers,3
+140,Americas,Central America,CRI,Costa Rica," Opioids, including opiates and synthetic opioids",4
+141,Americas,Central America,CRI,Costa Rica, Amphetamine-type stimulants,5
+142,Americas,Central America,CRI,Costa Rica, Hallucinogens,6
+143,Africa,West and Central Africa,CIV,Côte d'Ivoire,Cannabis-type drugs,1
+144,Africa,West and Central Africa,CIV,Côte d'Ivoire, (Non-medical use of) pharmaceutical sedatives and tranquillizers,2
+145,Africa,West and Central Africa,CIV,Côte d'Ivoire, Cocaine-type drugs,3
+146,Europe,South-Eastern Europe,HRV,Croatia,Cannabis-type drugs,1
+147,Europe,South-Eastern Europe,HRV,Croatia, (Non-medical use of) pharmaceutical sedatives and tranquillizers,2
+148,Europe,South-Eastern Europe,HRV,Croatia, Cocaine-type drugs,3
+149,Europe,South-Eastern Europe,HRV,Croatia, Amphetamine-type stimulants,4
+150,Europe,South-Eastern Europe,HRV,Croatia, “Ecstasy”-type substances,5
+151,Europe,South-Eastern Europe,HRV,Croatia, Hallucinogens,6
+152,Europe,South-Eastern Europe,HRV,Croatia," Opioids, including opiates and synthetic opioids",7
+153,Europe,South-Eastern Europe,HRV,Croatia, New psychoactive substances,8
+154,Europe,Western and Central Europe,CYP,Cyprus,Cannabis-type drugs,1
+155,Europe,Western and Central Europe,CYP,Cyprus, (Non-medical use of) pharmaceutical sedatives and tranquillizers,2
+156,Europe,Western and Central Europe,CYP,Cyprus, Cocaine-type drugs,3
+157,Europe,Western and Central Europe,CYP,Cyprus, “Ecstasy”-type substances,4
+158,Europe,Western and Central Europe,CYP,Cyprus, New psychoactive substances,5
+159,Europe,Western and Central Europe,CYP,Cyprus, Hallucinogens,6
+160,Europe,Western and Central Europe,CYP,Cyprus, Amphetamine-type stimulants,7
+161,Europe,Western and Central Europe,CYP,Cyprus," Opioids, including opiates and synthetic opioids",8
+162,Europe,Western and Central Europe,CZE,Czechia,(Non-medical use of) pharmaceutical sedatives and tranquillizers,1
+163,Europe,Western and Central Europe,CZE,Czechia, Cannabis-type drugs,2
+164,Europe,Western and Central Europe,CZE,Czechia, “Ecstasy”-type substances,3
+165,Europe,Western and Central Europe,CZE,Czechia, Hallucinogens,4
+166,Europe,Western and Central Europe,CZE,Czechia, New psychoactive substances,5
+167,Europe,Western and Central Europe,CZE,Czechia, Amphetamine-type stimulants,6
+168,Europe,Western and Central Europe,CZE,Czechia, Cocaine-type drugs,7
+169,Europe,Western and Central Europe,CZE,Czechia," Opioids, including opiates and synthetic opioids",8
+170,Europe,Western and Central Europe,CZE,Czechia, Solvents and inhalants,9
+171,Americas,South America,ECU,Ecuador,Cannabis-type drugs,1
+172,Americas,South America,ECU,Ecuador," Opioids, including opiates and synthetic opioids",2
+173,Americas,South America,ECU,Ecuador, Cocaine-type drugs,3
+174,Americas,South America,ECU,Ecuador, “Ecstasy”-type substances,4
+175,Americas,South America,ECU,Ecuador, Amphetamine-type stimulants,5
+176,Americas,South America,ECU,Ecuador, Solvents and inhalants,6
+177,Africa,North Africa,EGY,Egypt,Cannabis-type drugs,1
+178,Africa,North Africa,EGY,Egypt," Opioids, including opiates and synthetic opioids",2
+179,Africa,North Africa,EGY,Egypt, New psychoactive substances,3
+180,Africa,North Africa,EGY,Egypt, (Non-medical use of) pharmaceutical sedatives and tranquillizers,4
+181,Africa,North Africa,EGY,Egypt, Amphetamine-type stimulants,5
+182,Africa,North Africa,EGY,Egypt, Hallucinogens,6
+183,Africa,North Africa,EGY,Egypt, Cocaine-type drugs,7
+184,Africa,North Africa,EGY,Egypt, “Ecstasy”-type substances,8
+185,Africa,North Africa,EGY,Egypt, Solvents and inhalants,9
+186,Americas,Central America,SLV,El Salvador,Cannabis-type drugs,1
+187,Americas,Central America,SLV,El Salvador, (Non-medical use of) pharmaceutical sedatives and tranquillizers,2
+188,Americas,Central America,SLV,El Salvador, Solvents and inhalants,3
+189,Americas,Central America,SLV,El Salvador, Cocaine-type drugs,4
+190,Americas,Central America,SLV,El Salvador, Amphetamine-type stimulants,5
+191,Americas,Central America,SLV,El Salvador, Hallucinogens,6
+192,Americas,Central America,SLV,El Salvador, “Ecstasy”-type substances,7
+193,Americas,Central America,SLV,El Salvador, New psychoactive substances,8
+194,Europe,Western and Central Europe,EST,Estonia,Cannabis-type drugs,1
+195,Europe,Western and Central Europe,EST,Estonia, Amphetamine-type stimulants,2
+196,Europe,Western and Central Europe,EST,Estonia, “Ecstasy”-type substances,3
+197,Europe,Western and Central Europe,EST,Estonia, Cocaine-type drugs,4
+198,Europe,Western and Central Europe,EST,Estonia, (Non-medical use of) pharmaceutical sedatives and tranquillizers,5
+199,Europe,Western and Central Europe,EST,Estonia, Solvents and inhalants,6
+200,Europe,Western and Central Europe,EST,Estonia, Hallucinogens,7
+201,Europe,Western and Central Europe,EST,Estonia, New psychoactive substances,8
+202,Europe,Western and Central Europe,EST,Estonia," Opioids, including opiates and synthetic opioids",9
+203,Europe,Western and Central Europe,EST,Estonia, Other drugs / psychoactive substances / pharmaceutical products not listed above,10
+204,Europe,Western and Central Europe,FIN,Finland,Cannabis-type drugs,1
+205,Europe,Western and Central Europe,FIN,Finland, (Non-medical use of) pharmaceutical sedatives and tranquillizers,2
+206,Europe,Western and Central Europe,FIN,Finland, Amphetamine-type stimulants,3
+207,Europe,Western and Central Europe,FIN,Finland, “Ecstasy”-type substances,4
+208,Europe,Western and Central Europe,FIN,Finland, Hallucinogens,5
+209,Europe,Western and Central Europe,FIN,Finland, Cocaine-type drugs,6
+210,Europe,Western and Central Europe,FIN,Finland," Opioids, including opiates and synthetic opioids",7
+211,Europe,Western and Central Europe,FIN,Finland, New psychoactive substances,8
+212,Europe,Western and Central Europe,FIN,Finland, Solvents and inhalants,9
+213,Europe,Western and Central Europe,FIN,Finland, Other drugs / psychoactive substances / pharmaceutical products not listed above,10
+214,Europe,Western and Central Europe,FRA,France,Cannabis-type drugs,1
+215,Europe,Western and Central Europe,FRA,France, Cocaine-type drugs,2
+216,Europe,Western and Central Europe,FRA,France, Amphetamine-type stimulants,3
+217,Europe,Western and Central Europe,FRA,France, Hallucinogens,4
+218,Europe,Western and Central Europe,FRA,France," Opioids, including opiates and synthetic opioids",5
+219,Europe,Western and Central Europe,FRA,France, Solvents and inhalants,6
+220,Africa,West and Central Africa,GMB,Gambia (the),Cannabis-type drugs,1
+221,Africa,West and Central Africa,GMB,Gambia (the), Cocaine-type drugs,2
+222,Africa,West and Central Africa,GMB,Gambia (the)," Opioids, including opiates and synthetic opioids",3
+223,Africa,West and Central Africa,GMB,Gambia (the), (Non-medical use of) pharmaceutical sedatives and tranquillizers,4
+224,Africa,West and Central Africa,GMB,Gambia (the), “Ecstasy”-type substances,5
+225,Africa,West and Central Africa,GMB,Gambia (the), Solvents and inhalants,6
+226,Africa,West and Central Africa,GMB,Gambia (the), Amphetamine-type stimulants,7
+227,Africa,West and Central Africa,GMB,Gambia (the), Hallucinogens,8
+228,Africa,West and Central Africa,GMB,Gambia (the), New psychoactive substances,9
+229,Africa,West and Central Africa,GMB,Gambia (the), Other drugs / psychoactive substances / pharmaceutical products not listed above,10
+230,Europe,Western and Central Europe,DEU,Germany,Cannabis-type drugs,1
+231,Europe,Western and Central Europe,DEU,Germany, Amphetamine-type stimulants,2
+232,Europe,Western and Central Europe,DEU,Germany, Cocaine-type drugs,3
+233,Europe,Western and Central Europe,DEU,Germany, New psychoactive substances,4
+234,Europe,Western and Central Europe,DEU,Germany," Opioids, including opiates and synthetic opioids",5
+235,Europe,Western and Central Europe,DEU,Germany, Other drugs / psychoactive substances / pharmaceutical products not listed above,6
+236,Europe,Western and Central Europe,DEU,Germany, Hallucinogens,7
+237,Africa,West and Central Africa,GHA,Ghana,Cannabis-type drugs,1
+238,Africa,West and Central Africa,GHA,Ghana, Cocaine-type drugs,2
+239,Africa,West and Central Africa,GHA,Ghana," Opioids, including opiates and synthetic opioids",3
+240,Africa,West and Central Africa,GHA,Ghana, Other drugs / psychoactive substances / pharmaceutical products not listed above,4
+241,Europe,Western and Central Europe,GIB,Gibraltar,(Non-medical use of) pharmaceutical sedatives and tranquillizers,1
+242,Europe,Western and Central Europe,GIB,Gibraltar, Cocaine-type drugs,2
+243,Europe,Western and Central Europe,GIB,Gibraltar, Cannabis-type drugs,3
+244,Europe,Western and Central Europe,GIB,Gibraltar," Opioids, including opiates and synthetic opioids",4
+245,Europe,Western and Central Europe,GIB,Gibraltar, Amphetamine-type stimulants,5
+246,Europe,Western and Central Europe,GRC,Greece,Cannabis-type drugs,1
+247,Europe,Western and Central Europe,GRC,Greece, Cocaine-type drugs,2
+248,Europe,Western and Central Europe,GRC,Greece, Solvents and inhalants,3
+249,Europe,Western and Central Europe,GRC,Greece, (Non-medical use of) pharmaceutical sedatives and tranquillizers,4
+250,Europe,Western and Central Europe,GRC,Greece, Amphetamine-type stimulants,5
+251,Europe,Western and Central Europe,GRC,Greece, “Ecstasy”-type substances,6
+252,Europe,Western and Central Europe,GRC,Greece, New psychoactive substances,7
+253,Europe,Western and Central Europe,GRC,Greece, Hallucinogens,8
+254,Europe,Western and Central Europe,GRC,Greece," Opioids, including opiates and synthetic opioids",9
+255,Europe,Western and Central Europe,GRC,Greece, Other drugs / psychoactive substances / pharmaceutical products not listed above,10
+256,Americas,Central America,GTM,Guatemala,Cannabis-type drugs,1
+257,Americas,Caribbean,HTI,Haiti,(Non-medical use of) pharmaceutical sedatives and tranquillizers,1
+258,Americas,Caribbean,HTI,Haiti," Opioids, including opiates and synthetic opioids",2
+259,Americas,Caribbean,HTI,Haiti, Amphetamine-type stimulants,3
+260,Americas,Caribbean,HTI,Haiti, Cannabis-type drugs,4
+261,Americas,Caribbean,HTI,Haiti, Solvents and inhalants,5
+262,Americas,Caribbean,HTI,Haiti, Cocaine-type drugs,6
+263,Americas,Caribbean,HTI,Haiti, Hallucinogens,7
+264,Americas,Caribbean,HTI,Haiti, “Ecstasy”-type substances,8
+265,Americas,Central America,HND,Honduras,Cannabis-type drugs,1
+266,Americas,Central America,HND,Honduras, Cocaine-type drugs,2
+267,Americas,Central America,HND,Honduras, Solvents and inhalants,3
+268,Americas,Central America,HND,Honduras, Amphetamine-type stimulants,4
+269,Americas,Central America,HND,Honduras," Opioids, including opiates and synthetic opioids",5
+270,Europe,Western and Central Europe,HUN,Hungary,(Non-medical use of) pharmaceutical sedatives and tranquillizers,1
+271,Europe,Western and Central Europe,HUN,Hungary, Cannabis-type drugs,2
+272,Europe,Western and Central Europe,HUN,Hungary, New psychoactive substances,3
+273,Europe,Western and Central Europe,HUN,Hungary, “Ecstasy”-type substances,4
+274,Europe,Western and Central Europe,HUN,Hungary, Amphetamine-type stimulants,5
+275,Europe,Western and Central Europe,HUN,Hungary, Cocaine-type drugs,6
+276,Europe,Western and Central Europe,HUN,Hungary, Hallucinogens,7
+277,Europe,Western and Central Europe,HUN,Hungary," Opioids, including opiates and synthetic opioids",8
+278,Europe,Western and Central Europe,HUN,Hungary, Solvents and inhalants,9
+279,Asia,South Asia,IND,India,Cannabis-type drugs,1
+280,Asia,South Asia,IND,India," Opioids, including opiates and synthetic opioids",2
+281,Asia,South Asia,IND,India, (Non-medical use of) pharmaceutical sedatives and tranquillizers,3
+282,Asia,South Asia,IND,India, Solvents and inhalants,4
+283,Asia,South Asia,IND,India, Cocaine-type drugs,5
+284,Asia,East and South-East Asia,IDN,Indonesia,Cannabis-type drugs,1
+285,Asia,East and South-East Asia,IDN,Indonesia, (Non-medical use of) pharmaceutical sedatives and tranquillizers,2
+286,Asia,East and South-East Asia,IDN,Indonesia, Amphetamine-type stimulants,3
+287,Asia,East and South-East Asia,IDN,Indonesia, “Ecstasy”-type substances,4
+288,Asia,East and South-East Asia,IDN,Indonesia, Hallucinogens,5
+289,Asia,East and South-East Asia,IDN,Indonesia, Solvents and inhalants,6
+290,Asia,East and South-East Asia,IDN,Indonesia, Other drugs / psychoactive substances / pharmaceutical products not listed above,7
+291,Asia,East and South-East Asia,IDN,Indonesia, New psychoactive substances,8
+292,Asia,East and South-East Asia,IDN,Indonesia, Cocaine-type drugs,9
+293,Asia,East and South-East Asia,IDN,Indonesia," Opioids, including opiates and synthetic opioids",10
+294,Asia,Near and Middle East/ South-West Asia,IRQ,Iraq,Amphetamine-type stimulants,1
+295,Asia,Near and Middle East/ South-West Asia,IRQ,Iraq, (Non-medical use of) pharmaceutical sedatives and tranquillizers,2
+296,Asia,Near and Middle East/ South-West Asia,IRQ,Iraq, Cannabis-type drugs,3
+297,Asia,Near and Middle East/ South-West Asia,IRQ,Iraq," Opioids, including opiates and synthetic opioids",4
+298,Asia,Near and Middle East/ South-West Asia,IRQ,Iraq, Solvents and inhalants,5
+299,Europe,Western and Central Europe,IRL,Ireland,Cannabis-type drugs,1
+300,Europe,Western and Central Europe,IRL,Ireland, “Ecstasy”-type substances,2
+301,Europe,Western and Central Europe,IRL,Ireland, Cocaine-type drugs,3
+302,Europe,Western and Central Europe,IRL,Ireland, Hallucinogens,4
+303,Europe,Western and Central Europe,IRL,Ireland, Amphetamine-type stimulants,5
+304,Europe,Western and Central Europe,IRL,Ireland, New psychoactive substances,6
+305,Asia,Near and Middle East/ South-West Asia,ISR,Israel,Cannabis-type drugs,1
+306,Asia,Near and Middle East/ South-West Asia,ISR,Israel," Opioids, including opiates and synthetic opioids",2
+307,Asia,Near and Middle East/ South-West Asia,ISR,Israel, (Non-medical use of) pharmaceutical sedatives and tranquillizers,3
+308,Asia,Near and Middle East/ South-West Asia,ISR,Israel, Cocaine-type drugs,4
+309,Asia,Near and Middle East/ South-West Asia,ISR,Israel, “Ecstasy”-type substances,5
+310,Asia,Near and Middle East/ South-West Asia,ISR,Israel, Hallucinogens,6
+311,Asia,Near and Middle East/ South-West Asia,ISR,Israel, Amphetamine-type stimulants,7
+312,Asia,Near and Middle East/ South-West Asia,ISR,Israel, New psychoactive substances,8
+313,Asia,Near and Middle East/ South-West Asia,ISR,Israel, Solvents and inhalants,9
+314,Asia,Near and Middle East/ South-West Asia,ISR,Israel, Other drugs / psychoactive substances / pharmaceutical products not listed above,10
+315,Europe,Western and Central Europe,ITA,Italy,Cannabis-type drugs,1
+316,Europe,Western and Central Europe,ITA,Italy, (Non-medical use of) pharmaceutical sedatives and tranquillizers,2
+317,Europe,Western and Central Europe,ITA,Italy, Cocaine-type drugs,3
+318,Europe,Western and Central Europe,ITA,Italy, New psychoactive substances,4
+319,Europe,Western and Central Europe,ITA,Italy, Amphetamine-type stimulants,5
+320,Europe,Western and Central Europe,ITA,Italy," Opioids, including opiates and synthetic opioids",6
+321,Asia,Central Asia and Transcaucasia,KAZ,Kazakhstan,"Opioids, including opiates and synthetic opioids",1
+322,Asia,Central Asia and Transcaucasia,KAZ,Kazakhstan, Cannabis-type drugs,2
+323,Asia,Central Asia and Transcaucasia,KAZ,Kazakhstan, Amphetamine-type stimulants,3
+324,Africa,East Africa,KEN,Kenya,Amphetamine-type stimulants,1
+325,Africa,East Africa,KEN,Kenya, Cannabis-type drugs,2
+326,Africa,East Africa,KEN,Kenya," Opioids, including opiates and synthetic opioids",3
+327,Africa,East Africa,KEN,Kenya, Other drugs / psychoactive substances / pharmaceutical products not listed above,4
+328,Africa,East Africa,KEN,Kenya, (Non-medical use of) pharmaceutical sedatives and tranquillizers,5
+329,Africa,East Africa,KEN,Kenya, Solvents and inhalants,6
+330,Africa,East Africa,KEN,Kenya, Cocaine-type drugs,7
+331,Asia,Central Asia and Transcaucasia,KGZ,Kyrgyzstan,"Opioids, including opiates and synthetic opioids",1
+332,Asia,Central Asia and Transcaucasia,KGZ,Kyrgyzstan, Cannabis-type drugs,2
+333,Asia,Central Asia and Transcaucasia,KGZ,Kyrgyzstan, Other drugs / psychoactive substances / pharmaceutical products not listed above,3
+334,Asia,Central Asia and Transcaucasia,KGZ,Kyrgyzstan, Solvents and inhalants,4
+335,Asia,Central Asia and Transcaucasia,KGZ,Kyrgyzstan, Amphetamine-type stimulants,5
+336,Europe,Western and Central Europe,LVA,Latvia,Cannabis-type drugs,1
+337,Europe,Western and Central Europe,LVA,Latvia, (Non-medical use of) pharmaceutical sedatives and tranquillizers,2
+338,Europe,Western and Central Europe,LVA,Latvia, Cocaine-type drugs,3
+339,Europe,Western and Central Europe,LVA,Latvia, “Ecstasy”-type substances,4
+340,Europe,Western and Central Europe,LVA,Latvia, Amphetamine-type stimulants,5
+341,Europe,Western and Central Europe,LVA,Latvia, Hallucinogens,6
+342,Europe,Western and Central Europe,LVA,Latvia," Opioids, including opiates and synthetic opioids",7
+343,Europe,Western and Central Europe,LVA,Latvia, Solvents and inhalants,8
+344,Europe,Western and Central Europe,LVA,Latvia, New psychoactive substances,9
+345,Asia,Near and Middle East/ South-West Asia,LBN,Lebanon,Cannabis-type drugs,1
+346,Asia,Near and Middle East/ South-West Asia,LBN,Lebanon, Cocaine-type drugs,2
+347,Asia,Near and Middle East/ South-West Asia,LBN,Lebanon," Opioids, including opiates and synthetic opioids",3
+348,Asia,Near and Middle East/ South-West Asia,LBN,Lebanon, Amphetamine-type stimulants,4
+349,Asia,Near and Middle East/ South-West Asia,LBN,Lebanon, Other drugs / psychoactive substances / pharmaceutical products not listed above,5
+350,Asia,Near and Middle East/ South-West Asia,LBN,Lebanon, New psychoactive substances,6
+351,Asia,Near and Middle East/ South-West Asia,LBN,Lebanon, Solvents and inhalants,7
+352,Asia,Near and Middle East/ South-West Asia,LBN,Lebanon, (Non-medical use of) pharmaceutical sedatives and tranquillizers,8
+353,Asia,Near and Middle East/ South-West Asia,LBN,Lebanon, Hallucinogens,9
+354,Europe,Western and Central Europe,LUX,Luxembourg,Cannabis-type drugs,1
+355,Europe,Western and Central Europe,LUX,Luxembourg, Cocaine-type drugs,2
+356,Europe,Western and Central Europe,LUX,Luxembourg, “Ecstasy”-type substances,3
+357,Europe,Western and Central Europe,LUX,Luxembourg, Hallucinogens,4
+358,Europe,Western and Central Europe,LUX,Luxembourg, Amphetamine-type stimulants,5
+359,Europe,Western and Central Europe,LUX,Luxembourg, Solvents and inhalants,6
+360,Europe,Western and Central Europe,LUX,Luxembourg," Opioids, including opiates and synthetic opioids",7
+361,Europe,Western and Central Europe,LUX,Luxembourg, New psychoactive substances,8
+362,Asia,East and South-East Asia,MYS,Malaysia,Amphetamine-type stimulants,1
+363,Asia,East and South-East Asia,MYS,Malaysia," Opioids, including opiates and synthetic opioids",2
+364,Asia,East and South-East Asia,MYS,Malaysia, Cannabis-type drugs,3
+365,Asia,East and South-East Asia,MYS,Malaysia, New psychoactive substances,4
+366,Asia,East and South-East Asia,MYS,Malaysia, Other drugs / psychoactive substances / pharmaceutical products not listed above,5
+367,Asia,East and South-East Asia,MYS,Malaysia, (Non-medical use of) pharmaceutical sedatives and tranquillizers,6
+368,Asia,East and South-East Asia,MYS,Malaysia, “Ecstasy”-type substances,7
+369,Africa,West and Central Africa,MLI,Mali,Cannabis-type drugs,1
+370,Africa,West and Central Africa,MLI,Mali," Opioids, including opiates and synthetic opioids",2
+371,Africa,West and Central Africa,MLI,Mali, Cocaine-type drugs,3
+372,Africa,West and Central Africa,MLI,Mali, (Non-medical use of) pharmaceutical sedatives and tranquillizers,4
+373,Africa,West and Central Africa,MLI,Mali, Solvents and inhalants,5
+374,Africa,West and Central Africa,MLI,Mali, Other drugs / psychoactive substances / pharmaceutical products not listed above,6
+375,Africa,West and Central Africa,MLI,Mali, Amphetamine-type stimulants,7
+376,Africa,West and Central Africa,MLI,Mali, Hallucinogens,8
+377,Europe,Western and Central Europe,MLT,Malta,Cannabis-type drugs,1
+378,Europe,Western and Central Europe,MLT,Malta, Cocaine-type drugs,2
+379,Europe,Western and Central Europe,MLT,Malta," Opioids, including opiates and synthetic opioids",3
+380,Africa,East Africa,MUS,Mauritius,Cannabis-type drugs,1
+381,Africa,East Africa,MUS,Mauritius, New psychoactive substances,2
+382,Africa,East Africa,MUS,Mauritius," Opioids, including opiates and synthetic opioids",3
+383,Americas,North America,MEX,Mexico,Cannabis-type drugs,1
+384,Americas,North America,MEX,Mexico, Cocaine-type drugs,2
+385,Americas,North America,MEX,Mexico, Amphetamine-type stimulants,3
+386,Americas,North America,MEX,Mexico, (Non-medical use of) pharmaceutical sedatives and tranquillizers,4
+387,Americas,North America,MEX,Mexico, Solvents and inhalants,5
+388,Americas,North America,MEX,Mexico, Hallucinogens,6
+389,Americas,North America,MEX,Mexico," Opioids, including opiates and synthetic opioids",7
+390,Europe,South-Eastern Europe,MNE,Montenegro,(Non-medical use of) pharmaceutical sedatives and tranquillizers,1
+391,Europe,South-Eastern Europe,MNE,Montenegro, Cannabis-type drugs,2
+392,Europe,South-Eastern Europe,MNE,Montenegro, Cocaine-type drugs,3
+393,Europe,South-Eastern Europe,MNE,Montenegro, Other drugs / psychoactive substances / pharmaceutical products not listed above,4
+394,Europe,South-Eastern Europe,MNE,Montenegro, “Ecstasy”-type substances,5
+395,Europe,South-Eastern Europe,MNE,Montenegro, Solvents and inhalants,6
+396,Europe,South-Eastern Europe,MNE,Montenegro," Opioids, including opiates and synthetic opioids",7
+397,Europe,South-Eastern Europe,MNE,Montenegro, Amphetamine-type stimulants,8
+398,Europe,South-Eastern Europe,MNE,Montenegro, Hallucinogens,9
+399,Europe,South-Eastern Europe,MNE,Montenegro, New psychoactive substances,10
+400,Africa,North Africa,MAR,Morocco,Cannabis-type drugs,1
+401,Africa,North Africa,MAR,Morocco, (Non-medical use of) pharmaceutical sedatives and tranquillizers,2
+402,Africa,North Africa,MAR,Morocco, Cocaine-type drugs,3
+403,Africa,North Africa,MAR,Morocco, Solvents and inhalants,4
+404,Africa,North Africa,MAR,Morocco," Opioids, including opiates and synthetic opioids",5
+405,Asia,East and South-East Asia,MMR,Myanmar,Cannabis-type drugs,1
+406,Asia,East and South-East Asia,MMR,Myanmar," Opioids, including opiates and synthetic opioids",2
+407,Asia,East and South-East Asia,MMR,Myanmar, Amphetamine-type stimulants,3
+408,Asia,East and South-East Asia,MMR,Myanmar, “Ecstasy”-type substances,4
+409,Asia,East and South-East Asia,MMR,Myanmar, (Non-medical use of) pharmaceutical sedatives and tranquillizers,5
+410,Asia,East and South-East Asia,MMR,Myanmar, Solvents and inhalants,6
+411,Europe,Western and Central Europe,NLD,Netherlands (the),Cannabis-type drugs,1
+412,Europe,Western and Central Europe,NLD,Netherlands (the), (Non-medical use of) pharmaceutical sedatives and tranquillizers,2
+413,Europe,Western and Central Europe,NLD,Netherlands (the), “Ecstasy”-type substances,3
+414,Europe,Western and Central Europe,NLD,Netherlands (the), Cocaine-type drugs,4
+415,Europe,Western and Central Europe,NLD,Netherlands (the), Amphetamine-type stimulants,5
+416,Europe,Western and Central Europe,NLD,Netherlands (the), New psychoactive substances,6
+417,Europe,Western and Central Europe,NLD,Netherlands (the)," Opioids, including opiates and synthetic opioids",7
+418,Oceania,Australia and New Zealand,NZL,New Zealand,Cannabis-type drugs,1
+419,Oceania,Australia and New Zealand,NZL,New Zealand, Amphetamine-type stimulants,2
+420,Oceania,Australia and New Zealand,NZL,New Zealand, “Ecstasy”-type substances,3
+421,Oceania,Australia and New Zealand,NZL,New Zealand, Cocaine-type drugs,4
+422,Americas,Central America,NIC,Nicaragua,Cannabis-type drugs,1
+423,Americas,Central America,NIC,Nicaragua, Cocaine-type drugs,2
+424,Americas,Central America,NIC,Nicaragua, Solvents and inhalants,3
+425,Africa,West and Central Africa,NER,Niger (the),Cannabis-type drugs,1
+426,Africa,West and Central Africa,NER,Niger (the)," Opioids, including opiates and synthetic opioids",2
+427,Africa,West and Central Africa,NER,Niger (the), Cocaine-type drugs,3
+428,Africa,West and Central Africa,NER,Niger (the), Amphetamine-type stimulants,4
+429,Africa,West and Central Africa,NER,Niger (the), “Ecstasy”-type substances,5
+430,Africa,West and Central Africa,NER,Niger (the), Hallucinogens,6
+431,Africa,West and Central Africa,NGA,Nigeria,Cannabis-type drugs,1
+432,Africa,West and Central Africa,NGA,Nigeria," Opioids, including opiates and synthetic opioids",2
+433,Africa,West and Central Africa,NGA,Nigeria, (Non-medical use of) pharmaceutical sedatives and tranquillizers,3
+434,Africa,West and Central Africa,NGA,Nigeria, “Ecstasy”-type substances,4
+435,Africa,West and Central Africa,NGA,Nigeria, Solvents and inhalants,5
+436,Europe,Western and Central Europe,NOR,Norway,Cannabis-type drugs,1
+437,Europe,Western and Central Europe,NOR,Norway, Amphetamine-type stimulants,2
+438,Europe,Western and Central Europe,NOR,Norway, Cocaine-type drugs,3
+439,Europe,Western and Central Europe,NOR,Norway, “Ecstasy”-type substances,4
+440,Europe,Western and Central Europe,NOR,Norway," Opioids, including opiates and synthetic opioids",5
+441,Europe,Western and Central Europe,NOR,Norway, (Non-medical use of) pharmaceutical sedatives and tranquillizers,6
+442,Asia,Near and Middle East/ South-West Asia,OMN,Oman,"Opioids, including opiates and synthetic opioids",1
+443,Asia,Near and Middle East/ South-West Asia,OMN,Oman, Cannabis-type drugs,2
+444,Asia,Near and Middle East/ South-West Asia,OMN,Oman, (Non-medical use of) pharmaceutical sedatives and tranquillizers,3
+445,Asia,Near and Middle East/ South-West Asia,OMN,Oman, Amphetamine-type stimulants,4
+446,Asia,Near and Middle East/ South-West Asia,OMN,Oman, Hallucinogens,5
+447,Asia,Near and Middle East/ South-West Asia,PAK,Pakistan,Cannabis-type drugs,1
+448,Asia,Near and Middle East/ South-West Asia,PAK,Pakistan," Opioids, including opiates and synthetic opioids",2
+449,Asia,Near and Middle East/ South-West Asia,PAK,Pakistan, Amphetamine-type stimulants,3
+450,Asia,Near and Middle East/ South-West Asia,PAK,Pakistan, Cocaine-type drugs,4
+451,Americas,Central America,PAN,Panama,Cannabis-type drugs,1
+452,Americas,Central America,PAN,Panama, Cocaine-type drugs,2
+453,Americas,Central America,PAN,Panama, “Ecstasy”-type substances,3
+454,Americas,Central America,PAN,Panama, Amphetamine-type stimulants,4
+455,Americas,Central America,PAN,Panama," Opioids, including opiates and synthetic opioids",5
+456,Americas,South America,PER,Peru,Cannabis-type drugs,1
+457,Americas,South America,PER,Peru, (Non-medical use of) pharmaceutical sedatives and tranquillizers,2
+458,Americas,South America,PER,Peru, Solvents and inhalants,3
+459,Americas,South America,PER,Peru, Cocaine-type drugs,4
+460,Americas,South America,PER,Peru, “Ecstasy”-type substances,5
+461,Americas,South America,PER,Peru, Amphetamine-type stimulants,6
+462,Asia,East and South-East Asia,PHL,Philippines (the),Amphetamine-type stimulants,1
+463,Asia,East and South-East Asia,PHL,Philippines (the), Cannabis-type drugs,2
+464,Asia,East and South-East Asia,PHL,Philippines (the)," Opioids, including opiates and synthetic opioids",3
+465,Asia,East and South-East Asia,PHL,Philippines (the), (Non-medical use of) pharmaceutical sedatives and tranquillizers,4
+466,Asia,East and South-East Asia,PHL,Philippines (the), “Ecstasy”-type substances,5
+467,Asia,East and South-East Asia,PHL,Philippines (the), Cocaine-type drugs,6
+468,Asia,East and South-East Asia,PHL,Philippines (the), Solvents and inhalants,7
+469,Asia,East and South-East Asia,PHL,Philippines (the), Hallucinogens,8
+470,Asia,East and South-East Asia,PHL,Philippines (the), Other drugs / psychoactive substances / pharmaceutical products not listed above,9
+471,Europe,Western and Central Europe,POL,Poland,(Non-medical use of) pharmaceutical sedatives and tranquillizers,1
+472,Europe,Western and Central Europe,POL,Poland, Cannabis-type drugs,2
+473,Europe,Western and Central Europe,POL,Poland, New psychoactive substances,3
+474,Europe,Western and Central Europe,POL,Poland, Amphetamine-type stimulants,4
+475,Europe,Western and Central Europe,POL,Poland," Opioids, including opiates and synthetic opioids",5
+476,Europe,Western and Central Europe,POL,Poland, Hallucinogens,6
+477,Europe,Western and Central Europe,POL,Poland, “Ecstasy”-type substances,7
+478,Europe,Western and Central Europe,POL,Poland, Cocaine-type drugs,8
+479,Europe,Western and Central Europe,POL,Poland, Solvents and inhalants,9
+480,Europe,Western and Central Europe,PRT,Portugal,Cannabis-type drugs,1
+481,Europe,Western and Central Europe,PRT,Portugal, (Non-medical use of) pharmaceutical sedatives and tranquillizers,2
+482,Europe,Western and Central Europe,PRT,Portugal, Cocaine-type drugs,3
+483,Europe,Western and Central Europe,PRT,Portugal, New psychoactive substances,4
+484,Europe,Western and Central Europe,PRT,Portugal, “Ecstasy”-type substances,5
+485,Europe,Western and Central Europe,PRT,Portugal," Opioids, including opiates and synthetic opioids",6
+486,Europe,Western and Central Europe,PRT,Portugal, Hallucinogens,7
+487,Europe,Western and Central Europe,PRT,Portugal, Amphetamine-type stimulants,8
+488,Asia,Near and Middle East/ South-West Asia,QAT,Qatar,Amphetamine-type stimulants,1
+489,Asia,Near and Middle East/ South-West Asia,QAT,Qatar, Other drugs / psychoactive substances / pharmaceutical products not listed above,2
+490,Asia,East and South-East Asia,KOR,Republic of Korea (the),Amphetamine-type stimulants,1
+491,Asia,East and South-East Asia,KOR,Republic of Korea (the), Cannabis-type drugs,2
+492,Asia,East and South-East Asia,KOR,Republic of Korea (the)," Opioids, including opiates and synthetic opioids",3
+493,Asia,East and South-East Asia,KOR,Republic of Korea (the), (Non-medical use of) pharmaceutical sedatives and tranquillizers,4
+494,Asia,East and South-East Asia,KOR,Republic of Korea (the), New psychoactive substances,5
+495,Asia,East and South-East Asia,KOR,Republic of Korea (the), “Ecstasy”-type substances,6
+496,Asia,East and South-East Asia,KOR,Republic of Korea (the), Hallucinogens,7
+497,Asia,East and South-East Asia,KOR,Republic of Korea (the), Other drugs / psychoactive substances / pharmaceutical products not listed above,8
+498,Europe,Eastern Europe,MDA,Republic of Moldova (the),Cannabis-type drugs,1
+499,Europe,Eastern Europe,MDA,Republic of Moldova (the)," Opioids, including opiates and synthetic opioids",2
+500,Europe,Eastern Europe,MDA,Republic of Moldova (the), Amphetamine-type stimulants,3
+501,Europe,Eastern Europe,MDA,Republic of Moldova (the), New psychoactive substances,4
+502,Asia,Near and Middle East/ South-West Asia,SAU,Saudi Arabia,Amphetamine-type stimulants,1
+503,Asia,Near and Middle East/ South-West Asia,SAU,Saudi Arabia, Cannabis-type drugs,2
+504,Asia,Near and Middle East/ South-West Asia,SAU,Saudi Arabia, (Non-medical use of) pharmaceutical sedatives and tranquillizers,3
+505,Asia,Near and Middle East/ South-West Asia,SAU,Saudi Arabia," Opioids, including opiates and synthetic opioids",4
+506,Asia,Near and Middle East/ South-West Asia,SAU,Saudi Arabia, Solvents and inhalants,5
+507,Europe,South-Eastern Europe,SRB,Serbia,Cannabis-type drugs,1
+508,Asia,East and South-East Asia,SGP,Singapore,Amphetamine-type stimulants,1
+509,Asia,East and South-East Asia,SGP,Singapore," Opioids, including opiates and synthetic opioids",2
+510,Asia,East and South-East Asia,SGP,Singapore, New psychoactive substances,3
+511,Asia,East and South-East Asia,SGP,Singapore, Cannabis-type drugs,4
+512,Asia,East and South-East Asia,SGP,Singapore, “Ecstasy”-type substances,5
+513,Asia,East and South-East Asia,SGP,Singapore, Cocaine-type drugs,6
+514,Asia,East and South-East Asia,SGP,Singapore, Hallucinogens,7
+515,Asia,East and South-East Asia,SGP,Singapore, Other drugs / psychoactive substances / pharmaceutical products not listed above,8
+516,Europe,Western and Central Europe,SVK,Slovakia,Cannabis-type drugs,1
+517,Europe,Western and Central Europe,SVK,Slovakia, (Non-medical use of) pharmaceutical sedatives and tranquillizers,2
+518,Europe,Western and Central Europe,SVK,Slovakia," Opioids, including opiates and synthetic opioids",3
+519,Europe,Western and Central Europe,SVK,Slovakia, “Ecstasy”-type substances,4
+520,Europe,Western and Central Europe,SVK,Slovakia, Cocaine-type drugs,5
+521,Europe,Western and Central Europe,SVK,Slovakia, Hallucinogens,6
+522,Africa,Southern Africa,ZAF,South Africa,"Opioids, including opiates and synthetic opioids",1
+523,Africa,Southern Africa,ZAF,South Africa, Cannabis-type drugs,2
+524,Africa,Southern Africa,ZAF,South Africa, Amphetamine-type stimulants,3
+525,Africa,Southern Africa,ZAF,South Africa, (Non-medical use of) pharmaceutical sedatives and tranquillizers,4
+526,Africa,Southern Africa,ZAF,South Africa, Cocaine-type drugs,5
+527,Europe,Western and Central Europe,ESP,Spain,Cannabis-type drugs,1
+528,Europe,Western and Central Europe,ESP,Spain, Cocaine-type drugs,2
+529,Europe,Western and Central Europe,ESP,Spain, (Non-medical use of) pharmaceutical sedatives and tranquillizers,3
+530,Europe,Western and Central Europe,ESP,Spain, “Ecstasy”-type substances,4
+531,Europe,Western and Central Europe,ESP,Spain, Amphetamine-type stimulants,5
+532,Europe,Western and Central Europe,ESP,Spain, Hallucinogens,6
+533,Europe,Western and Central Europe,ESP,Spain," Opioids, including opiates and synthetic opioids",7
+534,Europe,Western and Central Europe,ESP,Spain, New psychoactive substances,8
+535,Europe,Western and Central Europe,ESP,Spain, Solvents and inhalants,9
+536,Europe,Western and Central Europe,ESP,Spain, Other drugs / psychoactive substances / pharmaceutical products not listed above,10
+537,Asia,South Asia,LKA,Sri Lanka,Cannabis-type drugs,1
+538,Asia,South Asia,LKA,Sri Lanka," Opioids, including opiates and synthetic opioids",2
+539,Asia,South Asia,LKA,Sri Lanka, Amphetamine-type stimulants,3
+540,Asia,South Asia,LKA,Sri Lanka, “Ecstasy”-type substances,4
+541,Asia,South Asia,LKA,Sri Lanka, Cocaine-type drugs,5
+542,Asia,South Asia,LKA,Sri Lanka, (Non-medical use of) pharmaceutical sedatives and tranquillizers,6
+543,Asia,Near and Middle East/ South-West Asia,PSE,State of Palestine (the),Cannabis-type drugs,1
+544,Asia,Near and Middle East/ South-West Asia,PSE,State of Palestine (the), “Ecstasy”-type substances,2
+545,Asia,Near and Middle East/ South-West Asia,PSE,State of Palestine (the), Other drugs / psychoactive substances / pharmaceutical products not listed above,3
+546,Asia,Near and Middle East/ South-West Asia,PSE,State of Palestine (the), New psychoactive substances,4
+547,Asia,Near and Middle East/ South-West Asia,PSE,State of Palestine (the)," Opioids, including opiates and synthetic opioids",5
+548,Asia,Near and Middle East/ South-West Asia,PSE,State of Palestine (the), Cocaine-type drugs,6
+549,Asia,Near and Middle East/ South-West Asia,PSE,State of Palestine (the), Amphetamine-type stimulants,7
+550,Asia,Near and Middle East/ South-West Asia,PSE,State of Palestine (the), Hallucinogens,8
+551,Asia,Near and Middle East/ South-West Asia,PSE,State of Palestine (the), (Non-medical use of) pharmaceutical sedatives and tranquillizers,9
+552,Asia,Near and Middle East/ South-West Asia,PSE,State of Palestine (the), Solvents and inhalants,10
+553,Europe,Western and Central Europe,SWE,Sweden,Cannabis-type drugs,1
+554,Europe,Western and Central Europe,CHE,Switzerland,Cannabis-type drugs,1
+555,Europe,Western and Central Europe,CHE,Switzerland, Cocaine-type drugs,2
+556,Europe,Western and Central Europe,CHE,Switzerland," Opioids, including opiates and synthetic opioids",3
+557,Europe,Western and Central Europe,CHE,Switzerland, Amphetamine-type stimulants,4
+558,Europe,Western and Central Europe,CHE,Switzerland, (Non-medical use of) pharmaceutical sedatives and tranquillizers,5
+559,Europe,Western and Central Europe,CHE,Switzerland, “Ecstasy”-type substances,6
+560,Asia,Central Asia and Transcaucasia,TJK,Tajikistan,Cannabis-type drugs,1
+561,Asia,Central Asia and Transcaucasia,TJK,Tajikistan," Opioids, including opiates and synthetic opioids",2
+562,Asia,East and South-East Asia,THA,Thailand,Amphetamine-type stimulants,1
+563,Asia,East and South-East Asia,THA,Thailand, Cannabis-type drugs,2
+564,Asia,East and South-East Asia,THA,Thailand," Opioids, including opiates and synthetic opioids",3
+565,Asia,East and South-East Asia,THA,Thailand, New psychoactive substances,4
+566,Asia,East and South-East Asia,THA,Thailand, Solvents and inhalants,5
+567,Asia,East and South-East Asia,THA,Thailand, Other drugs / psychoactive substances / pharmaceutical products not listed above,6
+568,Asia,East and South-East Asia,THA,Thailand, “Ecstasy”-type substances,7
+569,Asia,East and South-East Asia,THA,Thailand, Cocaine-type drugs,8
+570,Asia,East and South-East Asia,THA,Thailand, Hallucinogens,9
+571,Asia,East and South-East Asia,TLS,Timor-Leste,Amphetamine-type stimulants,1
+572,Asia,East and South-East Asia,TLS,Timor-Leste, Cannabis-type drugs,2
+573,Asia,East and South-East Asia,TLS,Timor-Leste, Cocaine-type drugs,3
+574,Asia,East and South-East Asia,TLS,Timor-Leste, “Ecstasy”-type substances,4
+575,Asia,East and South-East Asia,TLS,Timor-Leste, Hallucinogens,5
+576,Asia,East and South-East Asia,TLS,Timor-Leste, New psychoactive substances,6
+577,Africa,West and Central Africa,TGO,Togo,Cannabis-type drugs,1
+578,Africa,West and Central Africa,TGO,Togo," Opioids, including opiates and synthetic opioids",2
+579,Africa,West and Central Africa,TGO,Togo, Cocaine-type drugs,3
+580,Americas,Caribbean,TTO,Trinidad and Tobago,Cannabis-type drugs,1
+581,Americas,Caribbean,TTO,Trinidad and Tobago, Cocaine-type drugs,2
+582,Americas,Caribbean,TTO,Trinidad and Tobago, New psychoactive substances,3
+583,Europe,Eastern Europe,UKR,Ukraine,"Opioids, including opiates and synthetic opioids",1
+584,Europe,Eastern Europe,UKR,Ukraine, Cannabis-type drugs,2
+585,Europe,Eastern Europe,UKR,Ukraine, Amphetamine-type stimulants,3
+586,Asia,Near and Middle East/ South-West Asia,ARE,United Arab Emirates (the),(Non-medical use of) pharmaceutical sedatives and tranquillizers,1
+587,Asia,Near and Middle East/ South-West Asia,ARE,United Arab Emirates (the), Amphetamine-type stimulants,2
+588,Asia,Near and Middle East/ South-West Asia,ARE,United Arab Emirates (the), Cannabis-type drugs,3
+589,Asia,Near and Middle East/ South-West Asia,ARE,United Arab Emirates (the)," Opioids, including opiates and synthetic opioids",4
+590,Europe,Western and Central Europe,GBR,United Kingdom of Great Britain and Northern Ireland (the),Cannabis-type drugs,1
+591,Europe,Western and Central Europe,GBR,United Kingdom of Great Britain and Northern Ireland (the), Cocaine-type drugs,2
+592,Europe,Western and Central Europe,GBR,United Kingdom of Great Britain and Northern Ireland (the), “Ecstasy”-type substances,3
+593,Europe,Western and Central Europe,GBR,United Kingdom of Great Britain and Northern Ireland (the), Amphetamine-type stimulants,4
+594,Europe,Western and Central Europe,GBR,United Kingdom of Great Britain and Northern Ireland (the), Hallucinogens,5
+595,Europe,Western and Central Europe,GBR,United Kingdom of Great Britain and Northern Ireland (the), (Non-medical use of) pharmaceutical sedatives and tranquillizers,6
+596,Europe,Western and Central Europe,GBR,United Kingdom of Great Britain and Northern Ireland (the)," Opioids, including opiates and synthetic opioids",7
+597,Americas,South America,URY,Uruguay,Cannabis-type drugs,1
+598,Americas,South America,URY,Uruguay, Cocaine-type drugs,2
+599,Americas,South America,URY,Uruguay, (Non-medical use of) pharmaceutical sedatives and tranquillizers,3
+600,Americas,South America,URY,Uruguay, Hallucinogens,4
+601,Americas,South America,URY,Uruguay, “Ecstasy”-type substances,5
+602,Americas,South America,URY,Uruguay, Solvents and inhalants,6
+603,Americas,South America,URY,Uruguay," Opioids, including opiates and synthetic opioids",7
+604,Americas,South America,URY,Uruguay, Amphetamine-type stimulants,8
+605,Americas,South America,URY,Uruguay, New psychoactive substances,9
+606,Asia,Central Asia and Transcaucasia,UZB,Uzbekistan,Cannabis-type drugs,1
+607,Asia,Central Asia and Transcaucasia,UZB,Uzbekistan," Opioids, including opiates and synthetic opioids",2
+608,Asia,Central Asia and Transcaucasia,UZB,Uzbekistan, (Non-medical use of) pharmaceutical sedatives and tranquillizers,3
+609,Asia,Central Asia and Transcaucasia,UZB,Uzbekistan, Solvents and inhalants,4
+610,Asia,Central Asia and Transcaucasia,UZB,Uzbekistan, New psychoactive substances,5
+611,Asia,Central Asia and Transcaucasia,UZB,Uzbekistan, Amphetamine-type stimulants,6
+612,Americas,South America,VEN,Venezuela (Bolivarian Republic of),Cannabis-type drugs,1
+613,Americas,South America,VEN,Venezuela (Bolivarian Republic of), Cocaine-type drugs,2
+614,Africa,Southern Africa,ZMB,Zambia,Cannabis-type drugs,1
+615,Africa,Southern Africa,ZMB,Zambia," Opioids, including opiates and synthetic opioids",2
+616,Africa,Southern Africa,ZMB,Zambia, Cocaine-type drugs,3
+617,Africa,Southern Africa,ZWE,Zimbabwe,Cannabis-type drugs,1
+618,Africa,Southern Africa,ZWE,Zimbabwe, Amphetamine-type stimulants,2
+619,Africa,Southern Africa,ZWE,Zimbabwe, Cocaine-type drugs,3
+620,Africa,Southern Africa,ZWE,Zimbabwe, “Ecstasy”-type substances,4
+621,Africa,Southern Africa,ZWE,Zimbabwe, (Non-medical use of) pharmaceutical sedatives and tranquillizers,5
+622,Africa,Southern Africa,ZWE,Zimbabwe, Hallucinogens,6
+623,Africa,Southern Africa,ZWE,Zimbabwe," Opioids, including opiates and synthetic opioids",7
